@@ -1,0 +1,3001 @@
+user_id,subscription_start_date,subscription_plan,country
+NF00001,2025-07-22,Basic,Japan
+NF00002,2023-07-16,Standard,United States
+NF00003,2023-01-29,Standard,India
+NF00004,2024-12-02,Premium,Brazil
+NF00005,2024-02-05,Premium,Germany
+NF00006,2024-05-27,Mobile,India
+NF00007,2023-03-29,Standard,Canada
+NF00008,2024-02-11,Mobile,Australia
+NF00009,2024-12-06,Standard,France
+NF00010,2024-01-24,Mobile,United Kingdom
+NF00011,2025-06-29,Mobile,India
+NF00012,2025-05-16,Premium,United States
+NF00013,2025-02-11,Premium,India
+NF00014,2025-09-19,Standard,India
+NF00015,2025-03-01,Basic,India
+NF00016,2023-07-14,Basic,India
+NF00017,2025-07-29,Basic,Germany
+NF00018,2024-12-16,Basic,Japan
+NF00019,2023-04-18,Mobile,Japan
+NF00020,2023-11-23,Basic,India
+NF00021,2023-07-01,Mobile,United States
+NF00022,2025-11-25,Mobile,India
+NF00023,2025-03-08,Premium,Mexico
+NF00024,2025-10-05,Standard,Australia
+NF00025,2023-11-06,Standard,Brazil
+NF00026,2024-11-27,Standard,France
+NF00027,2024-10-24,Basic,United States
+NF00028,2025-04-04,Standard,United Kingdom
+NF00029,2023-05-10,Premium,United States
+NF00030,2024-07-18,Premium,France
+NF00031,2024-12-07,Basic,Australia
+NF00032,2025-06-24,Premium,India
+NF00033,2024-12-20,Standard,Canada
+NF00034,2024-05-06,Basic,India
+NF00035,2024-05-19,Standard,India
+NF00036,2024-01-07,Basic,Japan
+NF00037,2023-06-22,Basic,Canada
+NF00038,2023-11-01,Standard,Japan
+NF00039,2023-06-10,Standard,India
+NF00040,2023-09-06,Mobile,France
+NF00041,2025-07-24,Basic,United States
+NF00042,2024-07-30,Basic,India
+NF00043,2023-04-11,Basic,Mexico
+NF00044,2024-04-17,Standard,India
+NF00045,2023-10-24,Basic,India
+NF00046,2024-12-27,Standard,India
+NF00047,2025-06-29,Premium,Brazil
+NF00048,2023-01-15,Premium,Canada
+NF00049,2024-05-25,Mobile,Japan
+NF00050,2024-05-05,Basic,Australia
+NF00051,2025-12-21,Basic,Mexico
+NF00052,2024-02-05,Basic,Japan
+NF00053,2023-07-01,Basic,United States
+NF00054,2023-08-03,Standard,Brazil
+NF00055,2024-06-07,Standard,Brazil
+NF00056,2024-10-13,Mobile,India
+NF00057,2023-12-24,Basic,Australia
+NF00058,2024-04-22,Basic,United States
+NF00059,2024-12-27,Standard,India
+NF00060,2023-11-25,Mobile,United States
+NF00061,2025-11-23,Mobile,India
+NF00062,2023-08-18,Standard,United States
+NF00063,2025-10-22,Mobile,India
+NF00064,2025-08-16,Standard,Brazil
+NF00065,2025-11-14,Mobile,India
+NF00066,2025-05-24,Standard,India
+NF00067,2024-08-02,Basic,Japan
+NF00068,2024-10-26,Mobile,United States
+NF00069,2023-08-15,Standard,India
+NF00070,2024-01-14,Mobile,India
+NF00071,2024-05-22,Standard,Canada
+NF00072,2025-11-03,Premium,Germany
+NF00073,2025-05-21,Basic,India
+NF00074,2024-09-09,Standard,Japan
+NF00075,2024-10-14,Standard,India
+NF00076,2024-04-19,Basic,United Kingdom
+NF00077,2024-04-04,Standard,India
+NF00078,2025-09-13,Mobile,Germany
+NF00079,2023-01-05,Basic,Japan
+NF00080,2023-12-16,Basic,India
+NF00081,2024-03-23,Standard,Australia
+NF00082,2025-02-01,Standard,Canada
+NF00083,2024-03-27,Standard,France
+NF00084,2023-12-10,Premium,United Kingdom
+NF00085,2023-03-27,Premium,United States
+NF00086,2023-10-14,Mobile,India
+NF00087,2023-04-26,Standard,India
+NF00088,2025-02-07,Basic,India
+NF00089,2024-04-13,Basic,India
+NF00090,2023-09-07,Premium,United Kingdom
+NF00091,2024-08-14,Standard,Japan
+NF00092,2024-06-24,Basic,Brazil
+NF00093,2024-06-02,Basic,India
+NF00094,2024-09-27,Standard,United States
+NF00095,2024-11-17,Premium,Japan
+NF00096,2023-07-27,Standard,India
+NF00097,2023-06-19,Standard,United States
+NF00098,2025-03-12,Mobile,United States
+NF00099,2025-12-02,Basic,France
+NF00100,2024-08-24,Standard,Canada
+NF00101,2024-05-09,Standard,Germany
+NF00102,2024-11-12,Mobile,France
+NF00103,2023-02-07,Basic,India
+NF00104,2024-02-12,Premium,India
+NF00105,2024-01-29,Mobile,Japan
+NF00106,2024-04-05,Standard,Canada
+NF00107,2025-03-26,Basic,Canada
+NF00108,2024-06-26,Premium,United States
+NF00109,2025-07-26,Mobile,Brazil
+NF00110,2024-05-30,Standard,Japan
+NF00111,2023-02-07,Premium,Australia
+NF00112,2025-01-10,Standard,United States
+NF00113,2025-05-24,Basic,India
+NF00114,2024-09-24,Premium,Brazil
+NF00115,2025-10-24,Premium,India
+NF00116,2024-04-01,Standard,United States
+NF00117,2025-05-23,Basic,United States
+NF00118,2023-01-02,Standard,India
+NF00119,2023-02-12,Premium,India
+NF00120,2025-05-20,Standard,Canada
+NF00121,2025-08-15,Basic,Germany
+NF00122,2024-07-23,Premium,United Kingdom
+NF00123,2025-04-04,Mobile,Brazil
+NF00124,2023-12-24,Basic,India
+NF00125,2025-03-07,Premium,India
+NF00126,2024-07-01,Standard,India
+NF00127,2023-11-29,Mobile,India
+NF00128,2023-04-13,Standard,United States
+NF00129,2023-07-11,Premium,India
+NF00130,2025-09-18,Premium,Mexico
+NF00131,2024-05-01,Basic,India
+NF00132,2025-12-20,Basic,India
+NF00133,2024-01-22,Basic,Japan
+NF00134,2023-03-06,Basic,India
+NF00135,2023-10-08,Basic,India
+NF00136,2024-01-28,Basic,India
+NF00137,2025-02-07,Standard,Brazil
+NF00138,2025-03-11,Standard,India
+NF00139,2025-03-18,Basic,India
+NF00140,2023-12-11,Premium,Australia
+NF00141,2024-02-21,Basic,Canada
+NF00142,2024-09-13,Mobile,United States
+NF00143,2024-10-26,Standard,India
+NF00144,2024-04-01,Mobile,India
+NF00145,2023-07-28,Mobile,Australia
+NF00146,2025-04-28,Standard,Australia
+NF00147,2024-07-24,Basic,Canada
+NF00148,2025-11-16,Standard,India
+NF00149,2025-11-02,Basic,United States
+NF00150,2025-08-31,Premium,Australia
+NF00151,2025-11-18,Mobile,Brazil
+NF00152,2024-11-11,Premium,Brazil
+NF00153,2023-11-23,Standard,United States
+NF00154,2023-06-25,Premium,Japan
+NF00155,2023-04-26,Basic,Brazil
+NF00156,2025-11-03,Basic,Mexico
+NF00157,2023-10-24,Mobile,India
+NF00158,2023-01-26,Premium,India
+NF00159,2023-02-11,Basic,Canada
+NF00160,2023-11-23,Basic,Canada
+NF00161,2025-12-09,Standard,United States
+NF00162,2023-11-05,Premium,India
+NF00163,2023-04-22,Standard,Japan
+NF00164,2025-01-06,Mobile,United States
+NF00165,2023-03-07,Basic,India
+NF00166,2024-06-18,Standard,India
+NF00167,2023-04-05,Standard,Canada
+NF00168,2023-04-12,Basic,India
+NF00169,2024-01-30,Basic,Germany
+NF00170,2023-01-15,Basic,India
+NF00171,2025-07-21,Mobile,India
+NF00172,2024-10-24,Standard,United States
+NF00173,2025-10-19,Premium,United States
+NF00174,2024-06-22,Mobile,United States
+NF00175,2024-09-01,Standard,United States
+NF00176,2024-10-21,Basic,Canada
+NF00177,2024-05-25,Basic,India
+NF00178,2024-09-10,Standard,India
+NF00179,2024-09-19,Mobile,Mexico
+NF00180,2025-09-02,Basic,Canada
+NF00181,2023-11-29,Premium,India
+NF00182,2025-10-03,Basic,United Kingdom
+NF00183,2023-07-09,Premium,India
+NF00184,2023-07-26,Basic,Brazil
+NF00185,2023-10-07,Basic,India
+NF00186,2025-10-29,Standard,Brazil
+NF00187,2023-09-26,Premium,India
+NF00188,2025-05-13,Standard,India
+NF00189,2024-10-01,Basic,United States
+NF00190,2024-12-01,Basic,Germany
+NF00191,2023-03-26,Basic,United Kingdom
+NF00192,2024-12-23,Basic,United States
+NF00193,2023-03-18,Basic,Brazil
+NF00194,2024-08-21,Mobile,Australia
+NF00195,2025-05-12,Standard,United States
+NF00196,2025-10-02,Basic,Germany
+NF00197,2025-12-20,Premium,Germany
+NF00198,2023-09-13,Standard,Canada
+NF00199,2025-04-21,Mobile,India
+NF00200,2024-10-18,Standard,France
+NF00201,2025-03-15,Basic,Australia
+NF00202,2025-06-11,Basic,India
+NF00203,2024-06-03,Basic,Australia
+NF00204,2023-05-28,Mobile,Australia
+NF00205,2025-05-14,Premium,Brazil
+NF00206,2024-11-05,Basic,India
+NF00207,2023-05-27,Standard,India
+NF00208,2024-03-17,Basic,Australia
+NF00209,2023-06-09,Standard,United States
+NF00210,2025-04-19,Premium,United Kingdom
+NF00211,2024-01-02,Basic,Mexico
+NF00212,2023-03-16,Basic,United States
+NF00213,2023-11-08,Standard,India
+NF00214,2024-10-27,Mobile,India
+NF00215,2024-10-09,Standard,Mexico
+NF00216,2025-07-28,Premium,India
+NF00217,2024-01-31,Premium,Japan
+NF00218,2024-11-19,Standard,India
+NF00219,2025-11-01,Basic,Brazil
+NF00220,2023-12-19,Mobile,United States
+NF00221,2023-02-03,Premium,United Kingdom
+NF00222,2024-12-19,Standard,India
+NF00223,2024-10-20,Standard,Canada
+NF00224,2024-01-06,Standard,Australia
+NF00225,2024-09-08,Mobile,India
+NF00226,2025-01-02,Standard,India
+NF00227,2025-06-15,Standard,Australia
+NF00228,2023-05-21,Mobile,India
+NF00229,2024-05-31,Basic,Australia
+NF00230,2023-11-03,Standard,United States
+NF00231,2024-01-01,Mobile,United States
+NF00232,2023-02-05,Basic,India
+NF00233,2024-04-07,Basic,United States
+NF00234,2023-04-02,Standard,India
+NF00235,2025-10-12,Basic,India
+NF00236,2024-08-31,Standard,United States
+NF00237,2024-04-06,Basic,India
+NF00238,2023-09-11,Basic,India
+NF00239,2025-10-26,Mobile,India
+NF00240,2024-07-19,Basic,Australia
+NF00241,2025-12-16,Premium,India
+NF00242,2024-12-23,Standard,Brazil
+NF00243,2025-12-24,Standard,United States
+NF00244,2025-08-23,Premium,United States
+NF00245,2025-03-24,Mobile,Brazil
+NF00246,2024-01-25,Standard,India
+NF00247,2025-05-02,Standard,United States
+NF00248,2023-12-16,Standard,India
+NF00249,2025-07-30,Premium,United States
+NF00250,2023-12-10,Mobile,Brazil
+NF00251,2023-03-26,Mobile,Brazil
+NF00252,2023-05-10,Premium,India
+NF00253,2024-05-12,Basic,United Kingdom
+NF00254,2024-12-27,Premium,Germany
+NF00255,2023-11-14,Standard,United Kingdom
+NF00256,2025-06-17,Basic,Australia
+NF00257,2023-10-08,Premium,India
+NF00258,2024-06-02,Standard,Canada
+NF00259,2024-01-04,Mobile,India
+NF00260,2024-09-03,Basic,United States
+NF00261,2023-07-27,Basic,India
+NF00262,2025-11-16,Premium,India
+NF00263,2025-10-11,Premium,Canada
+NF00264,2025-02-05,Mobile,Mexico
+NF00265,2024-08-04,Basic,France
+NF00266,2025-03-27,Premium,United States
+NF00267,2024-05-28,Mobile,India
+NF00268,2025-09-01,Mobile,Canada
+NF00269,2023-03-14,Basic,Germany
+NF00270,2023-08-25,Premium,Canada
+NF00271,2024-05-15,Standard,United States
+NF00272,2024-12-13,Mobile,United Kingdom
+NF00273,2025-02-13,Basic,Mexico
+NF00274,2025-02-25,Mobile,India
+NF00275,2025-10-27,Standard,Brazil
+NF00276,2025-07-12,Basic,India
+NF00277,2025-09-30,Standard,Canada
+NF00278,2024-01-12,Premium,France
+NF00279,2025-02-01,Standard,Japan
+NF00280,2025-01-24,Basic,India
+NF00281,2024-10-24,Mobile,France
+NF00282,2024-10-24,Basic,United States
+NF00283,2024-07-29,Standard,India
+NF00284,2024-03-24,Basic,India
+NF00285,2023-05-31,Mobile,United Kingdom
+NF00286,2023-04-22,Standard,India
+NF00287,2023-01-03,Standard,India
+NF00288,2024-01-22,Standard,Japan
+NF00289,2024-02-12,Basic,India
+NF00290,2025-11-21,Basic,Brazil
+NF00291,2023-09-23,Standard,United Kingdom
+NF00292,2023-08-26,Basic,India
+NF00293,2023-02-18,Basic,Brazil
+NF00294,2023-05-05,Premium,India
+NF00295,2024-12-21,Premium,India
+NF00296,2024-02-07,Standard,Mexico
+NF00297,2024-11-09,Premium,United States
+NF00298,2023-04-21,Standard,Germany
+NF00299,2025-04-16,Basic,Canada
+NF00300,2023-10-20,Premium,Germany
+NF00301,2023-03-06,Standard,United States
+NF00302,2025-09-29,Mobile,India
+NF00303,2024-01-30,Premium,United States
+NF00304,2023-12-16,Premium,United Kingdom
+NF00305,2023-02-22,Basic,Germany
+NF00306,2024-10-04,Basic,Canada
+NF00307,2023-11-03,Basic,United States
+NF00308,2023-09-19,Standard,Mexico
+NF00309,2025-01-11,Basic,United States
+NF00310,2025-01-02,Mobile,India
+NF00311,2023-06-10,Premium,Mexico
+NF00312,2023-05-20,Standard,Australia
+NF00313,2023-09-23,Premium,Canada
+NF00314,2025-05-15,Standard,India
+NF00315,2023-10-20,Basic,Brazil
+NF00316,2024-04-08,Premium,United Kingdom
+NF00317,2023-05-21,Basic,United Kingdom
+NF00318,2023-07-21,Premium,United Kingdom
+NF00319,2024-12-31,Basic,India
+NF00320,2025-04-11,Basic,India
+NF00321,2025-08-06,Standard,United Kingdom
+NF00322,2024-08-30,Basic,India
+NF00323,2023-10-31,Basic,Brazil
+NF00324,2024-04-25,Basic,Germany
+NF00325,2023-06-21,Mobile,India
+NF00326,2023-09-21,Standard,India
+NF00327,2024-06-11,Standard,France
+NF00328,2025-05-06,Basic,India
+NF00329,2023-10-11,Basic,Brazil
+NF00330,2024-02-05,Mobile,United Kingdom
+NF00331,2023-02-11,Basic,France
+NF00332,2023-02-17,Standard,United States
+NF00333,2024-08-21,Standard,India
+NF00334,2025-11-24,Basic,United States
+NF00335,2024-09-22,Mobile,Germany
+NF00336,2023-02-03,Standard,India
+NF00337,2024-09-20,Standard,India
+NF00338,2023-05-13,Standard,India
+NF00339,2025-01-28,Standard,Japan
+NF00340,2024-05-25,Basic,India
+NF00341,2024-02-03,Basic,India
+NF00342,2023-08-16,Basic,Japan
+NF00343,2023-07-12,Standard,Mexico
+NF00344,2024-01-03,Mobile,Germany
+NF00345,2024-05-08,Standard,India
+NF00346,2024-09-14,Premium,United Kingdom
+NF00347,2025-01-25,Basic,Japan
+NF00348,2025-11-15,Mobile,Germany
+NF00349,2023-02-05,Standard,Japan
+NF00350,2025-10-23,Standard,United States
+NF00351,2024-09-07,Standard,Mexico
+NF00352,2023-03-22,Mobile,India
+NF00353,2025-08-08,Standard,United States
+NF00354,2025-07-24,Basic,France
+NF00355,2023-11-12,Mobile,Brazil
+NF00356,2023-07-03,Standard,United States
+NF00357,2023-11-26,Standard,United Kingdom
+NF00358,2025-06-08,Premium,United Kingdom
+NF00359,2025-10-03,Basic,Canada
+NF00360,2023-11-21,Basic,India
+NF00361,2024-06-04,Basic,United Kingdom
+NF00362,2025-02-25,Standard,Australia
+NF00363,2023-07-17,Standard,Germany
+NF00364,2025-02-26,Mobile,India
+NF00365,2023-09-04,Premium,United States
+NF00366,2025-07-21,Premium,United States
+NF00367,2023-05-27,Premium,Australia
+NF00368,2025-12-09,Standard,United States
+NF00369,2025-02-28,Basic,Japan
+NF00370,2023-10-29,Standard,United Kingdom
+NF00371,2025-06-03,Premium,United Kingdom
+NF00372,2024-11-19,Standard,India
+NF00373,2024-06-05,Mobile,Brazil
+NF00374,2025-03-21,Premium,United States
+NF00375,2025-01-25,Standard,India
+NF00376,2023-03-29,Mobile,India
+NF00377,2023-09-09,Basic,Australia
+NF00378,2024-12-27,Premium,United Kingdom
+NF00379,2024-03-20,Standard,France
+NF00380,2023-12-19,Standard,India
+NF00381,2024-08-20,Basic,Japan
+NF00382,2023-06-26,Mobile,India
+NF00383,2025-12-12,Standard,Brazil
+NF00384,2024-08-25,Basic,India
+NF00385,2023-01-08,Mobile,Australia
+NF00386,2024-05-21,Standard,United Kingdom
+NF00387,2025-03-26,Standard,India
+NF00388,2024-09-24,Basic,Japan
+NF00389,2024-07-12,Mobile,United States
+NF00390,2024-12-04,Premium,Mexico
+NF00391,2023-01-28,Standard,India
+NF00392,2024-06-30,Mobile,India
+NF00393,2024-03-16,Standard,Germany
+NF00394,2025-09-19,Basic,India
+NF00395,2024-10-01,Standard,United States
+NF00396,2023-07-14,Premium,India
+NF00397,2025-07-24,Mobile,Brazil
+NF00398,2023-11-13,Standard,United States
+NF00399,2025-12-27,Standard,United States
+NF00400,2024-01-26,Premium,Brazil
+NF00401,2025-07-18,Standard,Mexico
+NF00402,2025-04-28,Standard,India
+NF00403,2025-03-02,Premium,India
+NF00404,2024-12-15,Mobile,Japan
+NF00405,2023-01-25,Standard,United Kingdom
+NF00406,2023-08-15,Standard,Australia
+NF00407,2025-08-15,Basic,United Kingdom
+NF00408,2025-03-26,Standard,India
+NF00409,2024-05-21,Basic,Germany
+NF00410,2025-04-25,Mobile,Australia
+NF00411,2024-12-20,Basic,Canada
+NF00412,2025-04-24,Mobile,United States
+NF00413,2024-08-07,Standard,India
+NF00414,2023-03-27,Premium,Canada
+NF00415,2024-03-23,Mobile,Australia
+NF00416,2023-08-21,Premium,Japan
+NF00417,2025-08-03,Basic,India
+NF00418,2025-09-08,Mobile,Germany
+NF00419,2023-08-11,Basic,India
+NF00420,2025-08-21,Basic,United States
+NF00421,2023-12-28,Premium,India
+NF00422,2023-08-14,Standard,France
+NF00423,2023-10-26,Mobile,India
+NF00424,2024-08-27,Basic,India
+NF00425,2023-09-20,Standard,United States
+NF00426,2023-10-15,Standard,India
+NF00427,2025-02-05,Standard,Canada
+NF00428,2024-04-01,Mobile,France
+NF00429,2025-02-03,Standard,Germany
+NF00430,2023-01-23,Basic,Japan
+NF00431,2023-04-17,Mobile,India
+NF00432,2023-11-05,Basic,United States
+NF00433,2024-02-01,Standard,India
+NF00434,2023-10-24,Standard,Brazil
+NF00435,2024-03-09,Basic,India
+NF00436,2025-10-04,Standard,India
+NF00437,2024-05-19,Basic,United States
+NF00438,2024-10-06,Standard,Brazil
+NF00439,2025-05-15,Standard,India
+NF00440,2023-07-14,Standard,India
+NF00441,2023-06-08,Basic,United States
+NF00442,2024-04-13,Mobile,India
+NF00443,2024-11-12,Basic,India
+NF00444,2024-06-24,Standard,United States
+NF00445,2023-05-12,Basic,France
+NF00446,2024-11-29,Standard,Brazil
+NF00447,2025-10-09,Mobile,United Kingdom
+NF00448,2024-08-06,Mobile,France
+NF00449,2025-09-11,Premium,United Kingdom
+NF00450,2024-04-06,Standard,United States
+NF00451,2024-03-14,Mobile,Japan
+NF00452,2023-12-07,Premium,France
+NF00453,2024-07-24,Premium,United Kingdom
+NF00454,2024-09-22,Standard,India
+NF00455,2023-04-26,Basic,United Kingdom
+NF00456,2025-12-05,Basic,India
+NF00457,2023-06-17,Basic,Mexico
+NF00458,2024-08-29,Standard,United States
+NF00459,2023-12-07,Basic,Canada
+NF00460,2025-08-30,Standard,India
+NF00461,2024-12-06,Premium,United States
+NF00462,2023-01-17,Standard,France
+NF00463,2023-01-30,Mobile,Japan
+NF00464,2023-08-11,Basic,Canada
+NF00465,2025-06-18,Mobile,Mexico
+NF00466,2025-08-05,Standard,United States
+NF00467,2024-08-26,Basic,Australia
+NF00468,2024-09-16,Basic,United Kingdom
+NF00469,2024-12-09,Mobile,United Kingdom
+NF00470,2024-06-18,Standard,India
+NF00471,2024-07-13,Standard,India
+NF00472,2024-02-09,Standard,India
+NF00473,2024-06-21,Mobile,United States
+NF00474,2023-11-20,Standard,India
+NF00475,2025-03-30,Premium,Brazil
+NF00476,2025-01-13,Premium,Japan
+NF00477,2025-02-24,Premium,United States
+NF00478,2024-02-05,Premium,Brazil
+NF00479,2024-03-09,Standard,Brazil
+NF00480,2024-04-22,Mobile,United Kingdom
+NF00481,2024-10-22,Premium,France
+NF00482,2025-05-01,Basic,Japan
+NF00483,2023-01-10,Basic,India
+NF00484,2025-11-03,Premium,United Kingdom
+NF00485,2025-08-02,Premium,France
+NF00486,2025-12-25,Basic,Germany
+NF00487,2023-11-01,Premium,India
+NF00488,2024-06-15,Mobile,Canada
+NF00489,2024-08-21,Basic,United States
+NF00490,2023-06-01,Mobile,India
+NF00491,2024-01-27,Standard,Germany
+NF00492,2023-01-28,Mobile,India
+NF00493,2023-05-11,Standard,Australia
+NF00494,2024-06-26,Basic,United States
+NF00495,2023-12-13,Basic,United States
+NF00496,2023-03-25,Standard,India
+NF00497,2025-07-04,Standard,United States
+NF00498,2023-05-10,Basic,Mexico
+NF00499,2023-09-11,Basic,Canada
+NF00500,2023-09-15,Premium,Japan
+NF00501,2024-07-20,Standard,Japan
+NF00502,2025-12-23,Premium,Australia
+NF00503,2023-01-31,Basic,India
+NF00504,2023-06-27,Premium,Germany
+NF00505,2024-01-01,Premium,United States
+NF00506,2023-05-01,Premium,Brazil
+NF00507,2023-01-09,Basic,United Kingdom
+NF00508,2025-09-30,Standard,India
+NF00509,2023-09-03,Standard,United States
+NF00510,2024-11-12,Premium,India
+NF00511,2025-08-27,Basic,Germany
+NF00512,2025-03-21,Standard,United States
+NF00513,2023-02-16,Mobile,France
+NF00514,2024-01-24,Basic,India
+NF00515,2023-02-25,Basic,United States
+NF00516,2025-10-20,Mobile,India
+NF00517,2024-05-22,Basic,India
+NF00518,2025-12-05,Standard,India
+NF00519,2024-03-15,Standard,India
+NF00520,2024-09-04,Premium,India
+NF00521,2023-03-10,Premium,United Kingdom
+NF00522,2025-12-17,Basic,United States
+NF00523,2025-07-29,Standard,India
+NF00524,2024-07-08,Mobile,India
+NF00525,2023-09-12,Standard,India
+NF00526,2024-04-26,Mobile,Australia
+NF00527,2024-04-23,Mobile,India
+NF00528,2025-05-10,Premium,Brazil
+NF00529,2023-11-23,Standard,United States
+NF00530,2024-12-07,Basic,Australia
+NF00531,2025-06-06,Standard,Australia
+NF00532,2023-08-08,Basic,Brazil
+NF00533,2025-05-01,Standard,United Kingdom
+NF00534,2024-07-18,Standard,United States
+NF00535,2023-08-12,Basic,India
+NF00536,2023-01-19,Basic,India
+NF00537,2025-08-26,Basic,United States
+NF00538,2025-08-17,Standard,Japan
+NF00539,2023-03-11,Basic,India
+NF00540,2024-08-17,Standard,Brazil
+NF00541,2023-04-13,Standard,United States
+NF00542,2023-02-20,Basic,Mexico
+NF00543,2023-03-05,Basic,Brazil
+NF00544,2025-10-24,Mobile,India
+NF00545,2024-07-09,Standard,Canada
+NF00546,2025-12-31,Standard,France
+NF00547,2025-04-26,Standard,India
+NF00548,2025-03-19,Standard,United States
+NF00549,2023-04-28,Premium,Brazil
+NF00550,2024-04-17,Premium,United Kingdom
+NF00551,2024-09-09,Mobile,Brazil
+NF00552,2024-10-10,Standard,India
+NF00553,2023-06-02,Standard,France
+NF00554,2023-01-12,Standard,India
+NF00555,2024-11-02,Basic,India
+NF00556,2023-04-29,Mobile,Australia
+NF00557,2025-10-23,Standard,United States
+NF00558,2023-12-29,Mobile,France
+NF00559,2025-10-13,Standard,India
+NF00560,2024-03-26,Premium,India
+NF00561,2024-04-08,Standard,Brazil
+NF00562,2025-04-08,Mobile,Australia
+NF00563,2025-09-13,Premium,India
+NF00564,2023-07-07,Standard,India
+NF00565,2024-04-30,Standard,United States
+NF00566,2023-05-08,Basic,United States
+NF00567,2025-02-06,Premium,Japan
+NF00568,2025-02-03,Standard,France
+NF00569,2023-06-05,Basic,United Kingdom
+NF00570,2025-08-31,Basic,Mexico
+NF00571,2025-12-10,Mobile,India
+NF00572,2025-08-22,Mobile,Canada
+NF00573,2025-05-29,Mobile,India
+NF00574,2025-03-24,Mobile,India
+NF00575,2023-11-02,Premium,India
+NF00576,2025-12-13,Standard,India
+NF00577,2023-12-03,Basic,India
+NF00578,2024-07-26,Standard,Mexico
+NF00579,2025-02-09,Premium,India
+NF00580,2025-04-28,Basic,Japan
+NF00581,2023-12-24,Basic,Japan
+NF00582,2024-04-02,Mobile,United Kingdom
+NF00583,2024-06-04,Mobile,United States
+NF00584,2024-01-23,Mobile,Australia
+NF00585,2023-12-25,Standard,India
+NF00586,2025-09-25,Standard,India
+NF00587,2023-09-23,Standard,India
+NF00588,2024-04-17,Standard,India
+NF00589,2023-06-13,Mobile,United Kingdom
+NF00590,2025-03-29,Standard,India
+NF00591,2025-06-02,Premium,Brazil
+NF00592,2024-06-28,Standard,Brazil
+NF00593,2023-03-09,Standard,United States
+NF00594,2023-05-03,Standard,Australia
+NF00595,2023-10-05,Mobile,Brazil
+NF00596,2023-05-20,Premium,Brazil
+NF00597,2023-09-05,Basic,France
+NF00598,2024-07-13,Mobile,India
+NF00599,2024-10-02,Standard,United Kingdom
+NF00600,2025-02-14,Mobile,United States
+NF00601,2025-10-19,Basic,India
+NF00602,2025-03-24,Standard,Australia
+NF00603,2024-06-03,Mobile,India
+NF00604,2024-01-03,Premium,India
+NF00605,2025-08-11,Basic,Germany
+NF00606,2023-01-11,Standard,France
+NF00607,2025-03-12,Standard,Germany
+NF00608,2024-08-07,Basic,Japan
+NF00609,2024-06-23,Premium,United States
+NF00610,2023-07-27,Standard,United States
+NF00611,2023-11-08,Standard,India
+NF00612,2023-12-17,Standard,India
+NF00613,2023-02-15,Standard,India
+NF00614,2024-09-12,Mobile,India
+NF00615,2024-09-16,Premium,Japan
+NF00616,2024-03-05,Basic,India
+NF00617,2025-09-14,Mobile,United States
+NF00618,2024-05-18,Basic,Mexico
+NF00619,2023-03-21,Basic,France
+NF00620,2023-02-25,Premium,India
+NF00621,2024-02-08,Basic,Germany
+NF00622,2023-07-20,Basic,Japan
+NF00623,2025-08-02,Premium,India
+NF00624,2025-07-11,Premium,India
+NF00625,2025-11-22,Standard,Australia
+NF00626,2024-07-15,Premium,Germany
+NF00627,2024-06-19,Mobile,Japan
+NF00628,2025-08-28,Standard,United States
+NF00629,2024-11-28,Mobile,India
+NF00630,2025-07-28,Mobile,Mexico
+NF00631,2023-08-02,Premium,India
+NF00632,2023-07-31,Premium,Germany
+NF00633,2023-03-03,Standard,France
+NF00634,2024-03-13,Basic,United Kingdom
+NF00635,2025-05-13,Premium,United Kingdom
+NF00636,2024-07-30,Basic,India
+NF00637,2024-08-24,Standard,India
+NF00638,2023-04-17,Mobile,India
+NF00639,2023-05-20,Standard,Germany
+NF00640,2023-04-04,Mobile,India
+NF00641,2024-02-07,Basic,United States
+NF00642,2025-07-11,Basic,United States
+NF00643,2025-03-21,Standard,France
+NF00644,2025-06-25,Standard,United Kingdom
+NF00645,2023-11-23,Premium,Canada
+NF00646,2024-02-25,Premium,Brazil
+NF00647,2025-11-16,Mobile,India
+NF00648,2025-02-13,Premium,Australia
+NF00649,2025-01-25,Premium,India
+NF00650,2024-07-21,Basic,India
+NF00651,2023-04-27,Standard,Mexico
+NF00652,2025-03-30,Mobile,India
+NF00653,2024-02-10,Basic,United States
+NF00654,2023-12-12,Basic,India
+NF00655,2025-03-04,Standard,India
+NF00656,2024-06-03,Mobile,France
+NF00657,2023-07-05,Premium,France
+NF00658,2025-09-05,Premium,Canada
+NF00659,2024-03-08,Basic,India
+NF00660,2025-06-14,Premium,Mexico
+NF00661,2024-03-20,Standard,Brazil
+NF00662,2023-12-06,Basic,India
+NF00663,2025-05-29,Standard,Australia
+NF00664,2025-08-24,Mobile,United States
+NF00665,2023-12-11,Standard,India
+NF00666,2024-03-12,Premium,India
+NF00667,2024-08-29,Mobile,United Kingdom
+NF00668,2025-01-17,Mobile,United Kingdom
+NF00669,2024-07-04,Basic,Mexico
+NF00670,2025-02-18,Mobile,United States
+NF00671,2025-06-26,Mobile,United States
+NF00672,2024-03-16,Standard,Japan
+NF00673,2025-07-16,Basic,United States
+NF00674,2025-06-25,Standard,United Kingdom
+NF00675,2025-12-07,Basic,India
+NF00676,2024-05-25,Basic,Brazil
+NF00677,2025-07-16,Standard,Brazil
+NF00678,2025-11-18,Premium,United Kingdom
+NF00679,2025-10-28,Standard,United States
+NF00680,2025-10-23,Basic,United Kingdom
+NF00681,2024-03-04,Standard,Brazil
+NF00682,2025-09-13,Basic,Australia
+NF00683,2024-04-23,Basic,Japan
+NF00684,2025-09-22,Mobile,United States
+NF00685,2025-06-06,Basic,Canada
+NF00686,2023-06-11,Standard,United Kingdom
+NF00687,2023-05-21,Standard,Canada
+NF00688,2024-12-11,Premium,United States
+NF00689,2023-09-26,Basic,United Kingdom
+NF00690,2025-03-23,Standard,United States
+NF00691,2025-05-05,Standard,United Kingdom
+NF00692,2024-08-02,Premium,India
+NF00693,2025-05-03,Premium,France
+NF00694,2024-08-03,Standard,India
+NF00695,2024-09-16,Basic,Japan
+NF00696,2023-08-09,Premium,Brazil
+NF00697,2024-10-04,Mobile,Australia
+NF00698,2023-06-26,Standard,Canada
+NF00699,2024-11-10,Premium,Brazil
+NF00700,2025-05-08,Premium,Germany
+NF00701,2025-04-21,Mobile,United Kingdom
+NF00702,2023-06-13,Standard,India
+NF00703,2025-05-14,Basic,United States
+NF00704,2025-03-09,Mobile,India
+NF00705,2023-06-13,Standard,Mexico
+NF00706,2023-03-26,Basic,United States
+NF00707,2024-12-14,Standard,Canada
+NF00708,2024-03-27,Basic,India
+NF00709,2024-06-30,Basic,Mexico
+NF00710,2023-01-27,Premium,Mexico
+NF00711,2023-09-19,Premium,United Kingdom
+NF00712,2024-12-24,Mobile,Mexico
+NF00713,2024-11-24,Standard,United States
+NF00714,2023-11-18,Mobile,India
+NF00715,2024-01-11,Mobile,France
+NF00716,2024-05-27,Mobile,India
+NF00717,2024-01-08,Standard,United Kingdom
+NF00718,2023-11-10,Standard,France
+NF00719,2023-12-10,Basic,India
+NF00720,2024-07-19,Mobile,United Kingdom
+NF00721,2024-08-30,Mobile,United Kingdom
+NF00722,2024-12-21,Mobile,United Kingdom
+NF00723,2023-10-01,Premium,Canada
+NF00724,2023-07-02,Basic,United States
+NF00725,2023-12-10,Mobile,United States
+NF00726,2025-05-01,Premium,Australia
+NF00727,2025-07-05,Premium,France
+NF00728,2025-05-07,Basic,France
+NF00729,2024-03-05,Basic,United States
+NF00730,2025-10-29,Basic,India
+NF00731,2024-09-17,Standard,United States
+NF00732,2024-02-22,Basic,Brazil
+NF00733,2024-10-01,Basic,Germany
+NF00734,2025-08-14,Premium,India
+NF00735,2024-04-21,Mobile,France
+NF00736,2023-04-13,Basic,United States
+NF00737,2023-12-03,Mobile,India
+NF00738,2025-12-25,Mobile,Canada
+NF00739,2024-05-24,Mobile,United States
+NF00740,2023-08-21,Premium,Germany
+NF00741,2025-08-23,Premium,Germany
+NF00742,2024-02-14,Premium,Japan
+NF00743,2023-12-17,Basic,Brazil
+NF00744,2023-04-13,Premium,Mexico
+NF00745,2025-11-03,Premium,India
+NF00746,2025-07-04,Basic,United Kingdom
+NF00747,2024-03-02,Standard,United States
+NF00748,2024-06-16,Standard,Brazil
+NF00749,2023-10-06,Mobile,Australia
+NF00750,2025-11-20,Standard,United States
+NF00751,2025-10-04,Standard,Australia
+NF00752,2023-06-08,Basic,United States
+NF00753,2023-09-24,Standard,France
+NF00754,2025-09-04,Standard,United States
+NF00755,2023-08-28,Mobile,United States
+NF00756,2024-01-30,Basic,United States
+NF00757,2025-06-05,Mobile,United States
+NF00758,2023-09-16,Basic,United States
+NF00759,2025-07-16,Basic,Germany
+NF00760,2024-12-21,Mobile,United States
+NF00761,2023-07-23,Mobile,United States
+NF00762,2023-02-03,Mobile,India
+NF00763,2023-07-08,Standard,Germany
+NF00764,2024-07-29,Premium,Mexico
+NF00765,2025-11-18,Basic,Australia
+NF00766,2024-06-03,Basic,Japan
+NF00767,2023-05-21,Premium,India
+NF00768,2023-02-23,Basic,France
+NF00769,2023-07-25,Standard,India
+NF00770,2024-04-20,Standard,Mexico
+NF00771,2024-04-29,Standard,Japan
+NF00772,2023-12-01,Premium,Mexico
+NF00773,2024-11-12,Mobile,United States
+NF00774,2023-09-30,Mobile,India
+NF00775,2023-10-07,Premium,Germany
+NF00776,2025-10-16,Standard,India
+NF00777,2024-08-08,Basic,Germany
+NF00778,2024-10-17,Premium,United States
+NF00779,2024-09-19,Premium,India
+NF00780,2023-06-18,Premium,India
+NF00781,2024-09-29,Mobile,India
+NF00782,2025-04-09,Basic,United States
+NF00783,2023-02-16,Premium,India
+NF00784,2024-02-10,Basic,India
+NF00785,2023-11-02,Standard,India
+NF00786,2024-10-18,Premium,Germany
+NF00787,2025-09-19,Standard,Brazil
+NF00788,2024-02-21,Basic,United Kingdom
+NF00789,2023-03-13,Standard,United Kingdom
+NF00790,2024-11-30,Premium,Germany
+NF00791,2023-12-06,Basic,Mexico
+NF00792,2025-01-17,Basic,Brazil
+NF00793,2023-06-03,Standard,United Kingdom
+NF00794,2023-11-07,Basic,France
+NF00795,2024-03-01,Basic,Canada
+NF00796,2025-06-29,Basic,United States
+NF00797,2024-08-25,Premium,Australia
+NF00798,2024-11-08,Standard,Australia
+NF00799,2025-02-12,Premium,Mexico
+NF00800,2024-10-25,Mobile,United States
+NF00801,2025-08-25,Basic,United States
+NF00802,2023-08-27,Premium,India
+NF00803,2024-11-30,Standard,United Kingdom
+NF00804,2023-10-06,Premium,India
+NF00805,2024-09-02,Basic,Brazil
+NF00806,2024-03-09,Basic,France
+NF00807,2025-10-02,Standard,Japan
+NF00808,2023-02-07,Basic,India
+NF00809,2024-08-25,Basic,Canada
+NF00810,2023-03-01,Basic,Canada
+NF00811,2024-02-04,Standard,India
+NF00812,2024-12-27,Standard,United States
+NF00813,2023-09-19,Standard,United Kingdom
+NF00814,2023-12-13,Standard,India
+NF00815,2025-01-10,Premium,United States
+NF00816,2025-02-28,Premium,Brazil
+NF00817,2024-12-09,Standard,India
+NF00818,2023-03-24,Standard,Mexico
+NF00819,2024-01-06,Mobile,Canada
+NF00820,2025-03-22,Standard,Mexico
+NF00821,2025-08-04,Standard,United Kingdom
+NF00822,2023-08-23,Mobile,Germany
+NF00823,2024-03-08,Mobile,Brazil
+NF00824,2025-08-11,Mobile,India
+NF00825,2023-05-17,Basic,France
+NF00826,2025-09-20,Standard,India
+NF00827,2024-02-17,Mobile,Germany
+NF00828,2025-01-25,Premium,United States
+NF00829,2024-04-27,Mobile,France
+NF00830,2024-03-08,Mobile,United Kingdom
+NF00831,2024-02-16,Standard,Germany
+NF00832,2023-01-29,Standard,United States
+NF00833,2025-09-24,Premium,United States
+NF00834,2025-04-14,Premium,Australia
+NF00835,2025-10-08,Premium,India
+NF00836,2024-09-08,Standard,India
+NF00837,2025-11-19,Standard,United Kingdom
+NF00838,2023-04-01,Mobile,Germany
+NF00839,2024-01-28,Standard,Canada
+NF00840,2024-09-17,Basic,India
+NF00841,2024-06-10,Mobile,France
+NF00842,2023-01-07,Standard,United States
+NF00843,2023-04-22,Mobile,India
+NF00844,2024-05-09,Standard,Germany
+NF00845,2025-06-25,Premium,Germany
+NF00846,2024-11-03,Basic,India
+NF00847,2023-11-10,Standard,Brazil
+NF00848,2025-05-29,Mobile,United States
+NF00849,2025-09-01,Basic,India
+NF00850,2023-11-15,Mobile,Canada
+NF00851,2025-10-03,Basic,United States
+NF00852,2023-09-12,Mobile,Australia
+NF00853,2024-09-23,Standard,Mexico
+NF00854,2023-12-29,Standard,India
+NF00855,2025-02-27,Standard,India
+NF00856,2023-03-06,Premium,Germany
+NF00857,2023-02-28,Premium,Germany
+NF00858,2025-10-17,Standard,India
+NF00859,2023-07-13,Standard,India
+NF00860,2025-08-23,Standard,United Kingdom
+NF00861,2025-01-01,Mobile,France
+NF00862,2024-10-21,Standard,Brazil
+NF00863,2025-03-06,Standard,Mexico
+NF00864,2023-03-23,Premium,United States
+NF00865,2023-02-25,Basic,Brazil
+NF00866,2023-04-02,Premium,France
+NF00867,2023-01-23,Mobile,United States
+NF00868,2025-10-18,Mobile,France
+NF00869,2024-05-05,Standard,United States
+NF00870,2023-05-17,Basic,United States
+NF00871,2023-12-13,Standard,India
+NF00872,2023-06-09,Basic,India
+NF00873,2025-09-18,Basic,United Kingdom
+NF00874,2025-05-10,Premium,Brazil
+NF00875,2023-01-09,Premium,Brazil
+NF00876,2023-11-27,Basic,Japan
+NF00877,2024-12-20,Basic,India
+NF00878,2024-03-27,Standard,Brazil
+NF00879,2023-09-03,Standard,Germany
+NF00880,2024-03-25,Standard,Japan
+NF00881,2024-04-12,Premium,India
+NF00882,2025-02-06,Premium,United States
+NF00883,2024-08-30,Standard,India
+NF00884,2024-06-01,Standard,India
+NF00885,2024-11-04,Basic,Canada
+NF00886,2025-06-09,Premium,Canada
+NF00887,2023-04-12,Basic,Brazil
+NF00888,2024-06-27,Basic,Mexico
+NF00889,2025-04-09,Standard,India
+NF00890,2023-11-15,Basic,India
+NF00891,2025-08-08,Premium,United States
+NF00892,2023-08-02,Standard,Mexico
+NF00893,2023-02-07,Premium,Mexico
+NF00894,2025-04-07,Basic,India
+NF00895,2025-04-17,Standard,India
+NF00896,2023-08-29,Mobile,United States
+NF00897,2025-12-25,Mobile,Brazil
+NF00898,2024-10-29,Standard,Brazil
+NF00899,2023-02-09,Premium,India
+NF00900,2024-10-21,Standard,United States
+NF00901,2024-01-18,Standard,India
+NF00902,2025-11-21,Premium,Mexico
+NF00903,2023-10-29,Basic,India
+NF00904,2023-04-09,Premium,United States
+NF00905,2025-08-18,Standard,Mexico
+NF00906,2023-08-16,Standard,Canada
+NF00907,2023-12-26,Basic,India
+NF00908,2024-12-26,Premium,India
+NF00909,2023-12-26,Premium,France
+NF00910,2023-12-29,Basic,Canada
+NF00911,2024-06-26,Basic,Mexico
+NF00912,2023-05-21,Standard,Japan
+NF00913,2024-08-17,Standard,India
+NF00914,2025-09-08,Basic,United States
+NF00915,2025-12-24,Premium,Canada
+NF00916,2025-03-12,Standard,India
+NF00917,2024-10-12,Basic,United States
+NF00918,2023-09-01,Basic,Mexico
+NF00919,2025-08-14,Standard,Australia
+NF00920,2023-04-15,Basic,France
+NF00921,2025-02-17,Standard,India
+NF00922,2025-07-12,Mobile,Japan
+NF00923,2024-05-23,Basic,India
+NF00924,2024-09-16,Premium,Canada
+NF00925,2025-06-08,Mobile,Australia
+NF00926,2025-10-15,Standard,India
+NF00927,2023-02-06,Standard,United Kingdom
+NF00928,2024-07-20,Standard,France
+NF00929,2024-03-25,Mobile,Germany
+NF00930,2023-09-11,Premium,India
+NF00931,2025-08-05,Basic,India
+NF00932,2023-05-27,Mobile,India
+NF00933,2024-01-04,Mobile,Japan
+NF00934,2024-04-03,Standard,India
+NF00935,2023-09-06,Standard,India
+NF00936,2025-01-19,Standard,India
+NF00937,2024-12-02,Premium,India
+NF00938,2023-01-05,Basic,India
+NF00939,2023-06-20,Mobile,India
+NF00940,2024-03-09,Basic,United States
+NF00941,2025-08-22,Basic,Germany
+NF00942,2024-03-18,Standard,Brazil
+NF00943,2024-04-11,Standard,Canada
+NF00944,2025-01-05,Standard,India
+NF00945,2025-05-13,Basic,Mexico
+NF00946,2023-08-02,Standard,United Kingdom
+NF00947,2025-01-04,Standard,India
+NF00948,2025-08-18,Mobile,Canada
+NF00949,2025-09-01,Standard,Mexico
+NF00950,2023-12-23,Basic,France
+NF00951,2025-04-22,Standard,India
+NF00952,2025-06-25,Standard,India
+NF00953,2023-06-17,Standard,France
+NF00954,2025-06-26,Standard,United States
+NF00955,2025-10-12,Basic,Japan
+NF00956,2025-08-27,Premium,Germany
+NF00957,2025-08-13,Mobile,Australia
+NF00958,2023-10-11,Basic,France
+NF00959,2024-06-30,Basic,France
+NF00960,2025-07-09,Basic,Mexico
+NF00961,2023-04-08,Standard,India
+NF00962,2023-09-10,Mobile,Brazil
+NF00963,2023-08-16,Standard,India
+NF00964,2024-03-13,Standard,France
+NF00965,2023-05-06,Basic,Canada
+NF00966,2023-07-14,Basic,Canada
+NF00967,2025-12-16,Standard,India
+NF00968,2024-06-14,Basic,United States
+NF00969,2025-06-12,Basic,India
+NF00970,2023-03-24,Standard,France
+NF00971,2023-02-25,Basic,Canada
+NF00972,2025-11-14,Standard,India
+NF00973,2025-11-19,Basic,United States
+NF00974,2023-01-15,Premium,India
+NF00975,2023-09-25,Premium,Australia
+NF00976,2024-06-28,Standard,Australia
+NF00977,2024-12-04,Basic,India
+NF00978,2025-07-07,Standard,United States
+NF00979,2023-01-11,Standard,India
+NF00980,2023-05-26,Basic,Canada
+NF00981,2023-01-25,Standard,United States
+NF00982,2024-10-16,Mobile,India
+NF00983,2024-08-15,Standard,India
+NF00984,2024-08-05,Basic,Brazil
+NF00985,2023-08-09,Basic,Mexico
+NF00986,2025-04-10,Basic,India
+NF00987,2025-09-28,Mobile,Japan
+NF00988,2025-02-04,Mobile,United States
+NF00989,2025-12-15,Mobile,Canada
+NF00990,2025-06-23,Mobile,Brazil
+NF00991,2023-04-03,Premium,India
+NF00992,2025-05-19,Mobile,India
+NF00993,2024-11-08,Basic,India
+NF00994,2024-09-30,Premium,Brazil
+NF00995,2023-08-08,Basic,India
+NF00996,2024-01-19,Premium,Brazil
+NF00997,2024-01-26,Basic,Canada
+NF00998,2023-04-28,Premium,Canada
+NF00999,2024-01-01,Basic,India
+NF01000,2023-06-29,Standard,Australia
+NF01001,2024-05-13,Basic,United Kingdom
+NF01002,2025-08-12,Basic,Germany
+NF01003,2025-03-25,Basic,United States
+NF01004,2023-10-20,Basic,Canada
+NF01005,2024-09-30,Standard,India
+NF01006,2025-09-06,Standard,United States
+NF01007,2025-11-06,Standard,India
+NF01008,2023-12-02,Basic,France
+NF01009,2023-12-04,Mobile,Brazil
+NF01010,2023-03-04,Standard,Mexico
+NF01011,2025-04-20,Mobile,United States
+NF01012,2023-11-14,Premium,India
+NF01013,2024-01-26,Standard,Canada
+NF01014,2024-02-26,Standard,Canada
+NF01015,2023-04-19,Mobile,India
+NF01016,2023-04-24,Standard,United Kingdom
+NF01017,2024-09-29,Mobile,India
+NF01018,2024-04-16,Premium,France
+NF01019,2023-12-27,Basic,India
+NF01020,2025-05-24,Standard,France
+NF01021,2023-08-25,Mobile,United Kingdom
+NF01022,2024-03-29,Basic,Australia
+NF01023,2023-12-12,Mobile,United Kingdom
+NF01024,2024-06-25,Standard,India
+NF01025,2023-05-25,Premium,Australia
+NF01026,2025-12-30,Basic,Canada
+NF01027,2023-11-18,Standard,India
+NF01028,2023-08-24,Mobile,Germany
+NF01029,2025-02-05,Basic,Mexico
+NF01030,2024-08-19,Mobile,United States
+NF01031,2025-03-27,Mobile,Brazil
+NF01032,2025-12-18,Mobile,India
+NF01033,2025-02-02,Standard,United States
+NF01034,2024-06-27,Standard,France
+NF01035,2023-12-20,Standard,India
+NF01036,2024-10-10,Standard,United Kingdom
+NF01037,2025-09-25,Basic,India
+NF01038,2024-08-22,Premium,France
+NF01039,2024-08-28,Standard,United Kingdom
+NF01040,2023-05-07,Premium,India
+NF01041,2024-04-26,Standard,Canada
+NF01042,2025-02-23,Standard,Mexico
+NF01043,2025-06-19,Standard,India
+NF01044,2025-09-26,Premium,India
+NF01045,2024-12-13,Standard,India
+NF01046,2025-10-12,Standard,India
+NF01047,2023-03-10,Mobile,Germany
+NF01048,2024-10-04,Basic,Germany
+NF01049,2023-10-10,Standard,India
+NF01050,2024-01-22,Mobile,France
+NF01051,2025-11-02,Standard,United States
+NF01052,2025-01-10,Standard,France
+NF01053,2024-05-01,Basic,Mexico
+NF01054,2025-11-01,Basic,United States
+NF01055,2024-03-11,Standard,United Kingdom
+NF01056,2025-12-08,Mobile,India
+NF01057,2023-11-18,Mobile,France
+NF01058,2023-11-07,Premium,Japan
+NF01059,2024-12-05,Standard,India
+NF01060,2025-10-22,Standard,Japan
+NF01061,2023-03-28,Standard,India
+NF01062,2025-03-11,Basic,Germany
+NF01063,2024-03-29,Standard,Canada
+NF01064,2025-08-13,Standard,India
+NF01065,2025-05-04,Basic,United Kingdom
+NF01066,2023-07-03,Basic,Brazil
+NF01067,2025-01-05,Standard,France
+NF01068,2025-12-05,Mobile,Brazil
+NF01069,2023-06-12,Standard,France
+NF01070,2025-04-05,Premium,India
+NF01071,2023-04-30,Premium,United States
+NF01072,2023-07-02,Standard,Germany
+NF01073,2023-10-13,Basic,Brazil
+NF01074,2024-08-14,Mobile,United States
+NF01075,2025-05-09,Standard,United States
+NF01076,2023-05-03,Basic,India
+NF01077,2023-02-13,Basic,Australia
+NF01078,2025-03-05,Standard,India
+NF01079,2023-12-21,Mobile,Canada
+NF01080,2024-10-14,Standard,Australia
+NF01081,2024-04-10,Standard,United Kingdom
+NF01082,2024-09-25,Mobile,United States
+NF01083,2023-12-29,Standard,India
+NF01084,2025-07-17,Standard,Brazil
+NF01085,2023-05-07,Basic,Germany
+NF01086,2025-04-23,Basic,United States
+NF01087,2024-04-14,Mobile,United States
+NF01088,2023-04-11,Premium,Canada
+NF01089,2025-09-14,Basic,India
+NF01090,2025-04-15,Basic,India
+NF01091,2023-06-18,Mobile,India
+NF01092,2024-08-16,Basic,Brazil
+NF01093,2023-06-21,Premium,Brazil
+NF01094,2023-07-26,Basic,United States
+NF01095,2023-11-22,Standard,India
+NF01096,2024-01-16,Premium,Brazil
+NF01097,2025-12-15,Basic,Australia
+NF01098,2024-07-12,Standard,Australia
+NF01099,2024-04-04,Mobile,Germany
+NF01100,2025-07-30,Basic,Australia
+NF01101,2023-02-11,Basic,India
+NF01102,2025-08-24,Standard,United States
+NF01103,2023-02-10,Standard,United States
+NF01104,2023-04-22,Premium,France
+NF01105,2023-02-06,Standard,India
+NF01106,2024-04-29,Standard,Canada
+NF01107,2025-12-09,Basic,India
+NF01108,2025-07-13,Standard,India
+NF01109,2023-03-20,Basic,United States
+NF01110,2024-10-22,Standard,United Kingdom
+NF01111,2025-10-24,Basic,Mexico
+NF01112,2025-07-26,Mobile,India
+NF01113,2023-11-05,Premium,Canada
+NF01114,2024-10-16,Mobile,France
+NF01115,2024-01-22,Mobile,Germany
+NF01116,2023-09-02,Mobile,United States
+NF01117,2025-08-25,Basic,Germany
+NF01118,2024-07-05,Standard,Australia
+NF01119,2024-06-04,Basic,United States
+NF01120,2024-07-18,Standard,India
+NF01121,2023-08-20,Basic,Canada
+NF01122,2025-09-06,Mobile,Germany
+NF01123,2024-10-16,Basic,United States
+NF01124,2024-01-25,Basic,Japan
+NF01125,2024-10-18,Standard,United Kingdom
+NF01126,2023-09-15,Basic,United States
+NF01127,2024-06-17,Basic,Canada
+NF01128,2025-03-31,Basic,United States
+NF01129,2025-06-27,Basic,India
+NF01130,2024-04-04,Basic,Japan
+NF01131,2025-02-23,Standard,India
+NF01132,2024-06-14,Premium,Canada
+NF01133,2023-03-27,Standard,Mexico
+NF01134,2025-12-06,Standard,India
+NF01135,2025-08-10,Basic,India
+NF01136,2025-01-09,Basic,France
+NF01137,2023-02-26,Premium,India
+NF01138,2025-01-06,Basic,United States
+NF01139,2023-09-18,Standard,Mexico
+NF01140,2025-10-20,Premium,India
+NF01141,2023-04-09,Standard,India
+NF01142,2025-02-24,Standard,India
+NF01143,2024-03-04,Standard,India
+NF01144,2025-11-12,Mobile,India
+NF01145,2025-05-07,Standard,United States
+NF01146,2024-11-25,Basic,United States
+NF01147,2024-07-24,Mobile,Mexico
+NF01148,2024-10-05,Basic,France
+NF01149,2024-11-01,Standard,India
+NF01150,2023-11-08,Standard,United States
+NF01151,2024-08-09,Standard,India
+NF01152,2023-09-10,Basic,United States
+NF01153,2023-10-29,Standard,United States
+NF01154,2024-08-05,Standard,United Kingdom
+NF01155,2024-11-25,Basic,India
+NF01156,2023-03-06,Standard,France
+NF01157,2025-12-12,Basic,United Kingdom
+NF01158,2023-07-04,Standard,India
+NF01159,2024-08-27,Premium,United States
+NF01160,2025-02-15,Standard,Brazil
+NF01161,2023-10-23,Standard,United States
+NF01162,2025-01-14,Basic,United Kingdom
+NF01163,2024-07-09,Basic,Japan
+NF01164,2023-02-01,Mobile,India
+NF01165,2025-08-10,Standard,Mexico
+NF01166,2023-06-28,Basic,Mexico
+NF01167,2023-05-13,Basic,India
+NF01168,2024-11-08,Premium,India
+NF01169,2023-07-28,Basic,Canada
+NF01170,2024-03-22,Basic,France
+NF01171,2023-02-08,Basic,India
+NF01172,2024-10-07,Standard,United States
+NF01173,2025-08-17,Standard,Mexico
+NF01174,2023-05-22,Standard,Mexico
+NF01175,2024-09-20,Basic,Australia
+NF01176,2025-08-03,Premium,United States
+NF01177,2023-08-23,Basic,India
+NF01178,2023-10-11,Mobile,Mexico
+NF01179,2024-05-18,Standard,United States
+NF01180,2024-02-15,Premium,Japan
+NF01181,2023-04-03,Basic,Brazil
+NF01182,2024-05-07,Mobile,United States
+NF01183,2025-09-30,Mobile,India
+NF01184,2024-10-11,Premium,United States
+NF01185,2023-12-15,Standard,Brazil
+NF01186,2025-12-10,Standard,Mexico
+NF01187,2023-04-07,Premium,United States
+NF01188,2023-08-18,Standard,Japan
+NF01189,2025-12-17,Standard,India
+NF01190,2023-06-27,Basic,France
+NF01191,2025-06-10,Mobile,India
+NF01192,2023-06-09,Basic,United States
+NF01193,2023-09-02,Mobile,Germany
+NF01194,2025-04-29,Premium,Japan
+NF01195,2024-12-16,Standard,India
+NF01196,2024-02-24,Standard,United Kingdom
+NF01197,2023-10-21,Standard,United Kingdom
+NF01198,2025-10-12,Standard,Japan
+NF01199,2024-05-22,Standard,United Kingdom
+NF01200,2023-03-14,Mobile,India
+NF01201,2025-05-14,Premium,India
+NF01202,2024-08-05,Basic,United States
+NF01203,2023-07-04,Mobile,India
+NF01204,2025-04-09,Standard,Japan
+NF01205,2024-07-18,Mobile,United States
+NF01206,2024-07-09,Basic,United Kingdom
+NF01207,2025-07-18,Premium,India
+NF01208,2024-03-21,Basic,Brazil
+NF01209,2023-02-16,Basic,Germany
+NF01210,2025-06-08,Standard,India
+NF01211,2023-08-15,Basic,France
+NF01212,2024-07-11,Basic,United States
+NF01213,2024-04-17,Premium,India
+NF01214,2025-09-20,Basic,India
+NF01215,2023-01-24,Premium,Australia
+NF01216,2023-09-19,Premium,India
+NF01217,2024-02-20,Premium,Australia
+NF01218,2024-10-17,Mobile,Germany
+NF01219,2023-08-27,Mobile,India
+NF01220,2024-11-26,Mobile,Brazil
+NF01221,2023-07-13,Standard,Brazil
+NF01222,2025-09-21,Standard,United States
+NF01223,2025-10-22,Premium,Germany
+NF01224,2023-04-13,Mobile,United States
+NF01225,2024-10-30,Standard,United Kingdom
+NF01226,2025-06-02,Standard,India
+NF01227,2024-01-22,Standard,United States
+NF01228,2025-01-19,Basic,India
+NF01229,2025-05-27,Basic,Brazil
+NF01230,2025-08-01,Basic,India
+NF01231,2024-09-30,Mobile,United Kingdom
+NF01232,2024-10-29,Mobile,Brazil
+NF01233,2023-06-06,Premium,France
+NF01234,2024-05-12,Mobile,Canada
+NF01235,2025-03-04,Premium,United States
+NF01236,2025-05-22,Mobile,United States
+NF01237,2024-01-16,Mobile,France
+NF01238,2023-11-08,Mobile,Brazil
+NF01239,2025-02-20,Basic,United States
+NF01240,2023-03-02,Standard,France
+NF01241,2023-08-22,Basic,India
+NF01242,2025-04-01,Premium,India
+NF01243,2025-01-09,Standard,Mexico
+NF01244,2025-06-09,Basic,Japan
+NF01245,2025-04-29,Basic,United Kingdom
+NF01246,2025-06-27,Basic,India
+NF01247,2023-12-20,Standard,Australia
+NF01248,2024-05-05,Standard,Canada
+NF01249,2024-10-27,Standard,India
+NF01250,2025-03-14,Mobile,India
+NF01251,2024-02-18,Premium,India
+NF01252,2025-02-21,Premium,France
+NF01253,2023-07-16,Standard,India
+NF01254,2023-11-13,Mobile,India
+NF01255,2025-01-04,Basic,India
+NF01256,2025-04-19,Basic,United States
+NF01257,2023-03-25,Basic,United States
+NF01258,2025-11-22,Mobile,United States
+NF01259,2025-05-15,Basic,Canada
+NF01260,2024-01-21,Basic,United States
+NF01261,2024-12-15,Premium,United Kingdom
+NF01262,2023-10-27,Premium,United States
+NF01263,2023-05-05,Standard,United States
+NF01264,2024-10-01,Mobile,India
+NF01265,2025-09-08,Standard,India
+NF01266,2025-08-20,Premium,India
+NF01267,2023-03-28,Basic,Japan
+NF01268,2024-10-28,Mobile,Mexico
+NF01269,2023-03-22,Basic,India
+NF01270,2025-11-29,Basic,France
+NF01271,2024-03-27,Premium,India
+NF01272,2025-10-08,Premium,India
+NF01273,2024-07-13,Mobile,India
+NF01274,2025-02-17,Standard,India
+NF01275,2023-01-18,Basic,India
+NF01276,2025-02-13,Standard,India
+NF01277,2024-10-17,Premium,Mexico
+NF01278,2023-07-15,Standard,France
+NF01279,2024-05-06,Standard,Brazil
+NF01280,2024-01-09,Mobile,Germany
+NF01281,2023-02-03,Premium,United States
+NF01282,2025-06-06,Premium,India
+NF01283,2025-01-10,Standard,United States
+NF01284,2024-03-14,Premium,Canada
+NF01285,2023-12-02,Basic,United States
+NF01286,2023-09-07,Basic,United Kingdom
+NF01287,2025-04-13,Premium,India
+NF01288,2023-03-11,Basic,India
+NF01289,2024-07-17,Standard,Canada
+NF01290,2023-09-02,Basic,Australia
+NF01291,2023-03-26,Basic,Mexico
+NF01292,2024-09-24,Basic,Japan
+NF01293,2023-11-02,Standard,Canada
+NF01294,2025-10-09,Standard,United Kingdom
+NF01295,2025-02-17,Mobile,India
+NF01296,2024-03-05,Basic,Canada
+NF01297,2025-12-15,Premium,India
+NF01298,2025-05-15,Premium,United States
+NF01299,2024-06-29,Basic,India
+NF01300,2023-05-22,Premium,Mexico
+NF01301,2023-03-26,Standard,Germany
+NF01302,2025-06-20,Basic,India
+NF01303,2024-05-30,Standard,Brazil
+NF01304,2025-10-13,Mobile,United States
+NF01305,2024-06-11,Mobile,India
+NF01306,2024-07-04,Basic,Canada
+NF01307,2025-06-23,Standard,India
+NF01308,2024-05-13,Standard,India
+NF01309,2024-07-23,Premium,United States
+NF01310,2025-09-22,Premium,Japan
+NF01311,2023-09-19,Mobile,India
+NF01312,2023-09-07,Premium,United States
+NF01313,2025-10-15,Mobile,India
+NF01314,2025-10-06,Mobile,Mexico
+NF01315,2025-12-13,Basic,India
+NF01316,2025-10-02,Basic,Germany
+NF01317,2023-01-21,Premium,United States
+NF01318,2025-11-15,Basic,India
+NF01319,2023-06-21,Basic,France
+NF01320,2025-09-03,Standard,India
+NF01321,2025-01-26,Premium,India
+NF01322,2024-07-30,Basic,United States
+NF01323,2024-05-12,Premium,India
+NF01324,2025-01-17,Standard,Australia
+NF01325,2024-12-16,Standard,France
+NF01326,2024-08-07,Standard,India
+NF01327,2023-03-31,Standard,Germany
+NF01328,2023-11-27,Standard,United States
+NF01329,2023-07-14,Basic,India
+NF01330,2025-12-21,Standard,United States
+NF01331,2025-07-11,Basic,United Kingdom
+NF01332,2023-01-28,Basic,India
+NF01333,2024-11-14,Premium,India
+NF01334,2023-10-03,Standard,United Kingdom
+NF01335,2024-07-08,Standard,Brazil
+NF01336,2025-10-14,Basic,United States
+NF01337,2024-10-07,Standard,India
+NF01338,2025-11-09,Basic,Canada
+NF01339,2023-12-22,Basic,France
+NF01340,2023-11-02,Premium,Mexico
+NF01341,2025-07-10,Standard,Brazil
+NF01342,2025-12-31,Basic,India
+NF01343,2024-12-18,Standard,United States
+NF01344,2025-06-09,Basic,United States
+NF01345,2024-03-15,Standard,India
+NF01346,2025-05-01,Basic,India
+NF01347,2023-07-14,Premium,Canada
+NF01348,2024-09-18,Premium,India
+NF01349,2025-03-26,Standard,Japan
+NF01350,2024-03-08,Basic,United States
+NF01351,2023-10-30,Basic,India
+NF01352,2023-01-11,Basic,United States
+NF01353,2024-05-19,Basic,Canada
+NF01354,2024-02-05,Mobile,India
+NF01355,2024-12-24,Standard,India
+NF01356,2024-02-15,Basic,United States
+NF01357,2025-02-20,Mobile,India
+NF01358,2023-03-31,Premium,India
+NF01359,2025-12-21,Mobile,Mexico
+NF01360,2023-04-03,Premium,Canada
+NF01361,2024-01-25,Mobile,Brazil
+NF01362,2023-10-16,Basic,Canada
+NF01363,2025-05-24,Standard,India
+NF01364,2024-06-25,Standard,Canada
+NF01365,2025-04-02,Premium,United States
+NF01366,2025-04-28,Basic,India
+NF01367,2024-12-10,Standard,United States
+NF01368,2024-10-07,Mobile,United States
+NF01369,2024-07-13,Mobile,Mexico
+NF01370,2024-08-15,Basic,Japan
+NF01371,2025-04-30,Basic,India
+NF01372,2025-05-23,Basic,India
+NF01373,2024-05-14,Basic,Canada
+NF01374,2025-07-18,Standard,India
+NF01375,2023-01-22,Basic,France
+NF01376,2024-04-27,Basic,Mexico
+NF01377,2025-01-23,Basic,United States
+NF01378,2024-10-27,Premium,India
+NF01379,2024-03-21,Mobile,Canada
+NF01380,2025-10-06,Mobile,Japan
+NF01381,2023-03-14,Basic,United Kingdom
+NF01382,2023-03-29,Standard,Brazil
+NF01383,2024-05-26,Mobile,Germany
+NF01384,2024-10-29,Standard,India
+NF01385,2024-03-25,Standard,United Kingdom
+NF01386,2025-05-01,Basic,India
+NF01387,2024-12-07,Premium,Mexico
+NF01388,2024-04-13,Premium,Germany
+NF01389,2023-11-11,Basic,India
+NF01390,2025-04-01,Basic,India
+NF01391,2024-06-21,Standard,United States
+NF01392,2025-07-09,Basic,Mexico
+NF01393,2023-08-13,Premium,Germany
+NF01394,2025-04-17,Premium,Brazil
+NF01395,2025-02-11,Standard,India
+NF01396,2024-08-11,Standard,United Kingdom
+NF01397,2025-11-08,Mobile,Germany
+NF01398,2025-03-04,Standard,India
+NF01399,2025-10-12,Basic,France
+NF01400,2025-02-16,Basic,India
+NF01401,2023-11-15,Premium,Japan
+NF01402,2024-02-25,Basic,Brazil
+NF01403,2025-08-28,Premium,France
+NF01404,2023-01-24,Mobile,Brazil
+NF01405,2025-09-29,Premium,Canada
+NF01406,2025-11-06,Mobile,Canada
+NF01407,2025-07-09,Mobile,India
+NF01408,2024-05-27,Mobile,India
+NF01409,2025-01-22,Standard,United States
+NF01410,2023-11-24,Basic,United States
+NF01411,2023-07-17,Mobile,India
+NF01412,2023-10-02,Standard,United States
+NF01413,2025-09-07,Standard,United States
+NF01414,2024-03-13,Mobile,India
+NF01415,2025-02-23,Standard,Australia
+NF01416,2024-09-25,Standard,India
+NF01417,2025-12-19,Premium,United States
+NF01418,2024-07-21,Premium,Brazil
+NF01419,2024-04-30,Basic,India
+NF01420,2024-02-23,Standard,Japan
+NF01421,2025-01-08,Basic,Mexico
+NF01422,2023-03-27,Basic,United Kingdom
+NF01423,2025-11-23,Standard,United Kingdom
+NF01424,2025-12-10,Standard,India
+NF01425,2023-04-21,Mobile,India
+NF01426,2023-01-18,Premium,Canada
+NF01427,2025-08-22,Premium,India
+NF01428,2025-10-05,Basic,Mexico
+NF01429,2024-05-20,Basic,India
+NF01430,2023-02-04,Basic,Germany
+NF01431,2023-04-23,Standard,India
+NF01432,2024-07-07,Basic,France
+NF01433,2025-11-02,Premium,India
+NF01434,2025-05-10,Basic,United States
+NF01435,2023-02-02,Basic,India
+NF01436,2024-12-28,Premium,United States
+NF01437,2025-06-06,Premium,Brazil
+NF01438,2025-02-12,Basic,India
+NF01439,2024-04-22,Basic,India
+NF01440,2023-04-17,Standard,United States
+NF01441,2025-03-13,Standard,Brazil
+NF01442,2025-08-05,Premium,Australia
+NF01443,2024-08-21,Standard,Germany
+NF01444,2024-12-13,Basic,Germany
+NF01445,2023-04-21,Basic,Brazil
+NF01446,2025-10-29,Basic,United Kingdom
+NF01447,2024-01-27,Basic,United Kingdom
+NF01448,2025-12-26,Basic,Australia
+NF01449,2023-06-18,Standard,United Kingdom
+NF01450,2025-04-07,Premium,India
+NF01451,2025-04-03,Premium,India
+NF01452,2025-06-01,Basic,India
+NF01453,2023-10-23,Standard,France
+NF01454,2025-11-19,Mobile,United States
+NF01455,2024-03-25,Premium,India
+NF01456,2025-02-27,Basic,France
+NF01457,2023-03-31,Standard,Canada
+NF01458,2024-11-01,Mobile,Mexico
+NF01459,2023-10-07,Standard,India
+NF01460,2024-07-31,Premium,United States
+NF01461,2025-03-18,Premium,India
+NF01462,2024-07-27,Basic,United States
+NF01463,2023-03-19,Mobile,India
+NF01464,2024-12-02,Standard,India
+NF01465,2024-01-30,Standard,Canada
+NF01466,2024-11-15,Premium,India
+NF01467,2025-01-22,Standard,United States
+NF01468,2023-01-02,Premium,United States
+NF01469,2023-11-02,Standard,Mexico
+NF01470,2023-06-13,Basic,United Kingdom
+NF01471,2025-01-27,Premium,India
+NF01472,2024-04-01,Basic,India
+NF01473,2023-04-20,Standard,Brazil
+NF01474,2023-11-12,Standard,Germany
+NF01475,2025-11-13,Standard,United Kingdom
+NF01476,2025-01-09,Standard,Canada
+NF01477,2024-03-08,Standard,United Kingdom
+NF01478,2025-12-21,Mobile,Mexico
+NF01479,2025-01-08,Premium,Mexico
+NF01480,2023-10-19,Standard,Japan
+NF01481,2023-06-24,Mobile,Canada
+NF01482,2025-06-07,Standard,India
+NF01483,2023-12-06,Basic,Canada
+NF01484,2024-02-12,Standard,Australia
+NF01485,2023-10-04,Standard,United States
+NF01486,2025-03-04,Basic,Australia
+NF01487,2023-06-09,Basic,India
+NF01488,2023-04-08,Basic,United States
+NF01489,2024-10-03,Standard,India
+NF01490,2024-11-14,Mobile,United Kingdom
+NF01491,2024-11-29,Basic,India
+NF01492,2024-07-24,Mobile,India
+NF01493,2023-09-29,Standard,Brazil
+NF01494,2025-06-27,Premium,Brazil
+NF01495,2025-12-10,Standard,Brazil
+NF01496,2023-05-10,Premium,Canada
+NF01497,2023-12-04,Standard,India
+NF01498,2024-07-25,Premium,India
+NF01499,2024-04-02,Standard,India
+NF01500,2025-08-04,Premium,France
+NF01501,2025-11-23,Mobile,United States
+NF01502,2025-01-31,Standard,Australia
+NF01503,2024-03-12,Basic,Canada
+NF01504,2023-06-26,Basic,Brazil
+NF01505,2025-03-29,Standard,Canada
+NF01506,2025-07-24,Mobile,Australia
+NF01507,2025-11-21,Premium,United States
+NF01508,2023-09-11,Basic,India
+NF01509,2024-11-13,Mobile,Canada
+NF01510,2023-03-22,Basic,Canada
+NF01511,2025-11-09,Basic,Japan
+NF01512,2023-04-04,Basic,Australia
+NF01513,2025-05-15,Mobile,United Kingdom
+NF01514,2025-05-09,Basic,United Kingdom
+NF01515,2024-05-18,Standard,United States
+NF01516,2025-07-10,Basic,Germany
+NF01517,2023-03-09,Basic,Australia
+NF01518,2025-08-23,Standard,United Kingdom
+NF01519,2024-01-29,Standard,United States
+NF01520,2025-04-06,Standard,Germany
+NF01521,2023-05-17,Basic,United Kingdom
+NF01522,2025-09-06,Basic,India
+NF01523,2023-06-18,Basic,India
+NF01524,2025-10-13,Premium,India
+NF01525,2023-11-21,Mobile,India
+NF01526,2024-08-11,Premium,Japan
+NF01527,2025-01-24,Basic,Germany
+NF01528,2024-11-23,Premium,India
+NF01529,2024-09-02,Premium,India
+NF01530,2025-11-10,Standard,India
+NF01531,2024-10-22,Premium,India
+NF01532,2024-07-17,Premium,Brazil
+NF01533,2023-03-22,Basic,India
+NF01534,2023-09-21,Mobile,India
+NF01535,2024-05-17,Premium,Germany
+NF01536,2025-10-25,Standard,Brazil
+NF01537,2024-07-26,Premium,Japan
+NF01538,2023-02-25,Mobile,Mexico
+NF01539,2023-08-16,Standard,Canada
+NF01540,2024-10-01,Standard,Australia
+NF01541,2023-06-05,Standard,France
+NF01542,2025-10-15,Premium,France
+NF01543,2023-08-12,Premium,India
+NF01544,2025-03-26,Premium,Germany
+NF01545,2025-04-05,Basic,Canada
+NF01546,2024-10-25,Mobile,Japan
+NF01547,2024-09-27,Basic,India
+NF01548,2024-06-17,Mobile,Germany
+NF01549,2023-08-07,Standard,Japan
+NF01550,2023-10-26,Basic,India
+NF01551,2024-05-09,Mobile,India
+NF01552,2024-09-09,Premium,United States
+NF01553,2025-08-03,Basic,Japan
+NF01554,2025-03-20,Premium,France
+NF01555,2025-12-14,Standard,United States
+NF01556,2024-09-07,Basic,Mexico
+NF01557,2024-05-06,Basic,Japan
+NF01558,2025-04-19,Standard,India
+NF01559,2024-06-15,Basic,France
+NF01560,2025-11-25,Premium,India
+NF01561,2024-08-17,Premium,India
+NF01562,2024-12-01,Standard,Canada
+NF01563,2025-10-22,Standard,India
+NF01564,2025-02-14,Basic,United States
+NF01565,2024-02-11,Standard,Brazil
+NF01566,2025-07-19,Standard,India
+NF01567,2025-10-13,Basic,Australia
+NF01568,2024-08-29,Basic,Japan
+NF01569,2025-07-12,Premium,France
+NF01570,2023-11-13,Basic,Brazil
+NF01571,2024-06-16,Mobile,Australia
+NF01572,2025-05-19,Basic,Brazil
+NF01573,2023-07-28,Basic,India
+NF01574,2025-06-23,Mobile,United Kingdom
+NF01575,2025-10-03,Premium,Mexico
+NF01576,2025-12-09,Basic,Mexico
+NF01577,2023-06-14,Standard,United Kingdom
+NF01578,2023-01-24,Mobile,Canada
+NF01579,2024-02-02,Basic,United Kingdom
+NF01580,2024-07-09,Mobile,United States
+NF01581,2024-07-22,Mobile,India
+NF01582,2023-03-09,Standard,India
+NF01583,2024-12-27,Premium,United States
+NF01584,2024-06-27,Basic,India
+NF01585,2024-01-14,Standard,India
+NF01586,2024-06-07,Basic,India
+NF01587,2024-09-08,Standard,United States
+NF01588,2023-08-29,Premium,United Kingdom
+NF01589,2025-04-06,Mobile,United States
+NF01590,2025-12-31,Standard,India
+NF01591,2024-01-26,Premium,Brazil
+NF01592,2025-03-25,Standard,Australia
+NF01593,2023-03-09,Basic,Canada
+NF01594,2024-02-28,Mobile,India
+NF01595,2024-09-02,Standard,Germany
+NF01596,2025-05-21,Standard,Australia
+NF01597,2023-12-07,Basic,United States
+NF01598,2023-09-28,Basic,Australia
+NF01599,2025-08-07,Mobile,India
+NF01600,2023-11-08,Basic,United Kingdom
+NF01601,2023-08-17,Standard,United States
+NF01602,2025-04-30,Premium,United States
+NF01603,2023-04-08,Premium,United States
+NF01604,2025-01-31,Basic,United States
+NF01605,2024-05-27,Premium,India
+NF01606,2025-05-10,Basic,United States
+NF01607,2025-07-24,Basic,Germany
+NF01608,2024-03-02,Standard,Canada
+NF01609,2023-09-29,Basic,United Kingdom
+NF01610,2023-07-22,Basic,United States
+NF01611,2025-02-28,Premium,Japan
+NF01612,2024-04-21,Standard,India
+NF01613,2025-05-30,Premium,Germany
+NF01614,2025-03-22,Standard,United States
+NF01615,2025-12-29,Premium,India
+NF01616,2025-07-16,Standard,United States
+NF01617,2025-10-01,Standard,Canada
+NF01618,2025-09-15,Premium,Mexico
+NF01619,2025-09-24,Premium,Japan
+NF01620,2025-12-23,Basic,Brazil
+NF01621,2024-02-19,Basic,Mexico
+NF01622,2023-12-10,Standard,United Kingdom
+NF01623,2024-10-15,Standard,India
+NF01624,2025-07-07,Mobile,India
+NF01625,2023-07-18,Premium,Brazil
+NF01626,2025-12-30,Standard,United States
+NF01627,2023-11-27,Basic,Brazil
+NF01628,2023-11-03,Standard,United States
+NF01629,2024-03-10,Premium,India
+NF01630,2023-01-06,Basic,United States
+NF01631,2024-03-10,Standard,India
+NF01632,2023-06-06,Basic,India
+NF01633,2025-05-28,Standard,United States
+NF01634,2025-05-02,Standard,Mexico
+NF01635,2024-11-24,Basic,France
+NF01636,2025-05-31,Mobile,Germany
+NF01637,2023-06-30,Basic,Germany
+NF01638,2023-10-12,Mobile,Canada
+NF01639,2025-08-24,Basic,Germany
+NF01640,2025-10-27,Standard,United States
+NF01641,2023-10-24,Standard,Japan
+NF01642,2023-09-17,Basic,Brazil
+NF01643,2023-05-07,Standard,Brazil
+NF01644,2025-03-09,Standard,United States
+NF01645,2024-12-25,Standard,United States
+NF01646,2023-07-22,Standard,Japan
+NF01647,2024-11-05,Basic,France
+NF01648,2025-04-09,Standard,Japan
+NF01649,2023-11-22,Basic,United Kingdom
+NF01650,2023-02-25,Premium,India
+NF01651,2023-08-30,Premium,United Kingdom
+NF01652,2024-10-08,Basic,India
+NF01653,2024-07-20,Standard,Japan
+NF01654,2024-01-18,Mobile,France
+NF01655,2024-08-31,Standard,United Kingdom
+NF01656,2024-12-23,Premium,Canada
+NF01657,2025-11-07,Standard,India
+NF01658,2025-08-29,Standard,India
+NF01659,2025-01-18,Basic,Japan
+NF01660,2023-12-20,Premium,Brazil
+NF01661,2024-03-13,Basic,Brazil
+NF01662,2025-11-08,Basic,India
+NF01663,2023-12-29,Standard,India
+NF01664,2024-05-10,Standard,Australia
+NF01665,2025-12-21,Mobile,Australia
+NF01666,2024-03-14,Basic,United States
+NF01667,2025-05-13,Standard,India
+NF01668,2023-08-13,Basic,United Kingdom
+NF01669,2024-03-13,Standard,India
+NF01670,2023-03-02,Standard,United States
+NF01671,2025-07-12,Basic,United States
+NF01672,2023-03-08,Basic,India
+NF01673,2025-06-22,Standard,India
+NF01674,2025-07-20,Basic,United Kingdom
+NF01675,2023-06-27,Basic,India
+NF01676,2023-01-09,Premium,United States
+NF01677,2025-11-20,Standard,India
+NF01678,2024-12-11,Basic,Canada
+NF01679,2024-10-01,Basic,India
+NF01680,2024-10-30,Standard,India
+NF01681,2025-04-07,Standard,Mexico
+NF01682,2024-10-05,Mobile,India
+NF01683,2025-04-12,Mobile,France
+NF01684,2024-05-19,Basic,United States
+NF01685,2023-01-26,Premium,Canada
+NF01686,2023-03-12,Standard,Japan
+NF01687,2025-04-07,Premium,United States
+NF01688,2023-07-30,Standard,United Kingdom
+NF01689,2023-04-22,Premium,India
+NF01690,2025-01-31,Premium,Mexico
+NF01691,2023-06-24,Standard,India
+NF01692,2025-09-03,Basic,France
+NF01693,2023-12-08,Mobile,United States
+NF01694,2024-06-12,Standard,Brazil
+NF01695,2024-04-20,Premium,Australia
+NF01696,2024-03-03,Basic,Australia
+NF01697,2024-11-06,Standard,Germany
+NF01698,2025-07-02,Basic,India
+NF01699,2023-09-25,Standard,United Kingdom
+NF01700,2023-02-14,Mobile,India
+NF01701,2025-03-08,Mobile,India
+NF01702,2024-10-18,Premium,India
+NF01703,2024-05-07,Standard,India
+NF01704,2025-11-30,Standard,Mexico
+NF01705,2024-01-05,Basic,India
+NF01706,2024-04-16,Premium,India
+NF01707,2025-07-31,Basic,Japan
+NF01708,2023-11-27,Mobile,United States
+NF01709,2025-12-22,Mobile,India
+NF01710,2024-02-13,Mobile,India
+NF01711,2025-03-15,Standard,Mexico
+NF01712,2024-09-21,Premium,India
+NF01713,2025-05-02,Standard,United States
+NF01714,2025-08-24,Basic,Japan
+NF01715,2023-06-20,Mobile,Mexico
+NF01716,2025-03-10,Standard,Mexico
+NF01717,2024-04-03,Basic,India
+NF01718,2024-01-11,Standard,India
+NF01719,2025-04-18,Basic,Japan
+NF01720,2024-02-24,Standard,Brazil
+NF01721,2023-07-01,Standard,India
+NF01722,2024-11-26,Basic,India
+NF01723,2025-11-04,Basic,India
+NF01724,2024-11-19,Standard,Canada
+NF01725,2023-12-12,Standard,United States
+NF01726,2023-05-05,Mobile,Japan
+NF01727,2023-10-16,Basic,United States
+NF01728,2024-09-24,Standard,United Kingdom
+NF01729,2023-10-22,Basic,United States
+NF01730,2025-03-29,Standard,United States
+NF01731,2024-02-14,Basic,United States
+NF01732,2023-05-20,Standard,United States
+NF01733,2024-12-10,Premium,Mexico
+NF01734,2025-04-30,Mobile,Mexico
+NF01735,2025-09-01,Premium,United States
+NF01736,2023-06-12,Premium,Canada
+NF01737,2025-06-04,Standard,Brazil
+NF01738,2023-04-05,Mobile,India
+NF01739,2025-10-18,Premium,United Kingdom
+NF01740,2024-09-02,Standard,Japan
+NF01741,2023-06-27,Basic,Canada
+NF01742,2025-05-05,Mobile,Canada
+NF01743,2025-06-06,Basic,United Kingdom
+NF01744,2024-11-06,Mobile,United States
+NF01745,2024-05-07,Basic,India
+NF01746,2024-10-26,Mobile,Canada
+NF01747,2025-04-15,Standard,United Kingdom
+NF01748,2023-04-12,Standard,Germany
+NF01749,2023-01-13,Basic,India
+NF01750,2024-09-26,Standard,Brazil
+NF01751,2025-07-05,Mobile,India
+NF01752,2024-07-18,Mobile,India
+NF01753,2023-01-22,Basic,United Kingdom
+NF01754,2023-01-16,Basic,Canada
+NF01755,2024-10-25,Standard,United States
+NF01756,2025-04-19,Standard,India
+NF01757,2024-08-09,Standard,United States
+NF01758,2023-08-29,Standard,Japan
+NF01759,2023-10-14,Premium,India
+NF01760,2024-05-23,Premium,India
+NF01761,2023-06-01,Mobile,India
+NF01762,2024-05-15,Standard,India
+NF01763,2023-06-22,Mobile,Australia
+NF01764,2025-01-15,Standard,United States
+NF01765,2025-03-11,Basic,United Kingdom
+NF01766,2025-08-02,Mobile,United States
+NF01767,2023-08-11,Premium,United Kingdom
+NF01768,2025-05-04,Basic,Canada
+NF01769,2025-06-21,Standard,India
+NF01770,2023-08-21,Standard,Canada
+NF01771,2025-08-30,Standard,Japan
+NF01772,2023-09-08,Premium,India
+NF01773,2023-11-09,Mobile,India
+NF01774,2024-04-14,Mobile,India
+NF01775,2025-06-12,Basic,India
+NF01776,2024-02-05,Standard,India
+NF01777,2025-06-02,Standard,United States
+NF01778,2025-02-26,Basic,United States
+NF01779,2024-10-01,Mobile,India
+NF01780,2024-08-23,Standard,Brazil
+NF01781,2024-06-26,Premium,United States
+NF01782,2024-05-08,Basic,Canada
+NF01783,2023-12-02,Basic,United States
+NF01784,2024-10-24,Premium,United States
+NF01785,2023-03-02,Premium,India
+NF01786,2024-02-22,Standard,United States
+NF01787,2024-05-04,Standard,United States
+NF01788,2025-07-29,Basic,India
+NF01789,2025-09-03,Standard,United Kingdom
+NF01790,2025-03-30,Mobile,India
+NF01791,2023-07-15,Mobile,Australia
+NF01792,2025-05-22,Standard,India
+NF01793,2025-05-14,Premium,United States
+NF01794,2025-12-22,Premium,India
+NF01795,2024-10-26,Standard,United States
+NF01796,2025-01-23,Standard,India
+NF01797,2023-12-13,Premium,Germany
+NF01798,2024-12-15,Premium,India
+NF01799,2024-07-02,Standard,Australia
+NF01800,2025-04-19,Basic,United States
+NF01801,2023-03-07,Basic,India
+NF01802,2024-11-24,Basic,India
+NF01803,2024-10-07,Mobile,United States
+NF01804,2025-11-12,Mobile,Australia
+NF01805,2025-12-22,Standard,United States
+NF01806,2024-03-21,Basic,India
+NF01807,2024-07-29,Basic,Germany
+NF01808,2024-02-09,Standard,India
+NF01809,2023-02-23,Basic,France
+NF01810,2023-04-04,Premium,India
+NF01811,2023-04-13,Mobile,Australia
+NF01812,2025-10-30,Basic,Canada
+NF01813,2024-03-29,Premium,India
+NF01814,2023-03-31,Basic,Germany
+NF01815,2023-10-28,Basic,United Kingdom
+NF01816,2025-09-24,Premium,Brazil
+NF01817,2025-03-29,Premium,United States
+NF01818,2024-01-24,Mobile,United Kingdom
+NF01819,2024-01-17,Premium,Canada
+NF01820,2025-12-22,Basic,India
+NF01821,2024-04-03,Premium,India
+NF01822,2023-05-24,Premium,India
+NF01823,2025-01-06,Basic,Canada
+NF01824,2023-09-23,Standard,Brazil
+NF01825,2024-11-27,Basic,India
+NF01826,2025-05-16,Standard,Australia
+NF01827,2024-09-14,Basic,India
+NF01828,2024-03-02,Basic,United Kingdom
+NF01829,2024-10-31,Mobile,Brazil
+NF01830,2024-04-28,Mobile,Canada
+NF01831,2024-10-25,Premium,Brazil
+NF01832,2023-08-09,Basic,India
+NF01833,2025-04-14,Basic,United States
+NF01834,2023-06-21,Mobile,Japan
+NF01835,2023-11-10,Standard,India
+NF01836,2025-07-30,Standard,Japan
+NF01837,2024-08-03,Basic,India
+NF01838,2024-10-10,Basic,United Kingdom
+NF01839,2025-01-25,Standard,United Kingdom
+NF01840,2025-05-11,Standard,United States
+NF01841,2023-03-30,Mobile,Canada
+NF01842,2024-02-06,Standard,India
+NF01843,2025-03-16,Standard,India
+NF01844,2024-06-17,Basic,Germany
+NF01845,2024-05-17,Standard,India
+NF01846,2025-09-30,Standard,United States
+NF01847,2025-11-24,Standard,Canada
+NF01848,2025-09-19,Standard,Japan
+NF01849,2023-02-27,Premium,Canada
+NF01850,2024-10-14,Basic,United States
+NF01851,2023-05-27,Premium,France
+NF01852,2025-01-16,Standard,India
+NF01853,2023-09-30,Basic,France
+NF01854,2023-03-24,Standard,India
+NF01855,2024-12-13,Premium,United States
+NF01856,2024-01-13,Standard,United Kingdom
+NF01857,2025-10-15,Premium,Germany
+NF01858,2024-09-13,Basic,Australia
+NF01859,2023-04-21,Mobile,India
+NF01860,2024-04-29,Standard,India
+NF01861,2025-07-04,Standard,Canada
+NF01862,2023-12-03,Mobile,India
+NF01863,2025-01-03,Premium,India
+NF01864,2025-02-09,Premium,India
+NF01865,2023-11-18,Standard,Brazil
+NF01866,2023-09-16,Basic,India
+NF01867,2025-03-24,Mobile,United States
+NF01868,2025-09-24,Premium,Canada
+NF01869,2024-03-16,Premium,Japan
+NF01870,2023-08-15,Standard,Brazil
+NF01871,2024-07-24,Basic,Canada
+NF01872,2025-02-25,Basic,Brazil
+NF01873,2024-10-14,Basic,India
+NF01874,2024-06-25,Mobile,India
+NF01875,2023-08-05,Premium,United Kingdom
+NF01876,2025-03-14,Mobile,India
+NF01877,2024-09-07,Mobile,United States
+NF01878,2024-03-20,Mobile,Mexico
+NF01879,2024-12-27,Standard,United States
+NF01880,2024-01-23,Standard,India
+NF01881,2023-07-05,Basic,Germany
+NF01882,2024-12-07,Basic,United States
+NF01883,2023-10-24,Basic,United Kingdom
+NF01884,2025-11-21,Standard,Germany
+NF01885,2023-12-22,Mobile,India
+NF01886,2025-01-24,Premium,India
+NF01887,2023-08-03,Premium,Australia
+NF01888,2023-01-18,Basic,United States
+NF01889,2025-12-15,Standard,United Kingdom
+NF01890,2023-02-03,Basic,France
+NF01891,2023-01-07,Mobile,India
+NF01892,2023-08-22,Mobile,Germany
+NF01893,2023-03-28,Standard,Australia
+NF01894,2024-01-23,Mobile,Brazil
+NF01895,2025-04-10,Premium,India
+NF01896,2023-06-24,Standard,India
+NF01897,2025-12-29,Premium,United States
+NF01898,2025-11-11,Premium,France
+NF01899,2024-03-08,Basic,India
+NF01900,2023-10-19,Premium,India
+NF01901,2023-04-21,Standard,India
+NF01902,2024-05-17,Basic,India
+NF01903,2024-09-08,Standard,India
+NF01904,2023-06-04,Basic,Canada
+NF01905,2025-11-27,Mobile,United States
+NF01906,2023-12-01,Standard,United States
+NF01907,2024-10-22,Standard,India
+NF01908,2024-08-21,Basic,India
+NF01909,2025-01-25,Standard,United States
+NF01910,2024-04-03,Basic,India
+NF01911,2025-07-29,Standard,India
+NF01912,2023-04-08,Basic,United Kingdom
+NF01913,2024-12-10,Mobile,United Kingdom
+NF01914,2025-03-30,Premium,Germany
+NF01915,2025-05-03,Premium,United Kingdom
+NF01916,2025-11-28,Basic,Canada
+NF01917,2025-10-03,Basic,Germany
+NF01918,2023-09-16,Mobile,India
+NF01919,2024-02-14,Standard,India
+NF01920,2023-08-31,Standard,United Kingdom
+NF01921,2023-04-24,Basic,India
+NF01922,2025-04-07,Premium,India
+NF01923,2025-10-07,Standard,India
+NF01924,2024-05-12,Premium,Germany
+NF01925,2025-09-13,Premium,India
+NF01926,2023-02-14,Standard,India
+NF01927,2025-04-12,Basic,United Kingdom
+NF01928,2023-02-22,Standard,India
+NF01929,2024-11-27,Basic,India
+NF01930,2025-12-11,Standard,Canada
+NF01931,2024-03-08,Basic,United States
+NF01932,2025-03-03,Mobile,India
+NF01933,2025-05-05,Basic,United States
+NF01934,2024-07-18,Mobile,United States
+NF01935,2024-04-04,Premium,Brazil
+NF01936,2023-06-23,Basic,India
+NF01937,2025-02-10,Mobile,United Kingdom
+NF01938,2025-09-24,Basic,India
+NF01939,2024-02-17,Standard,Japan
+NF01940,2024-02-16,Premium,India
+NF01941,2023-07-15,Basic,Brazil
+NF01942,2023-12-26,Basic,Australia
+NF01943,2024-11-17,Mobile,Japan
+NF01944,2025-05-15,Premium,United States
+NF01945,2025-10-21,Mobile,United States
+NF01946,2025-06-15,Mobile,Brazil
+NF01947,2024-07-10,Mobile,India
+NF01948,2023-01-22,Standard,India
+NF01949,2023-07-30,Basic,Canada
+NF01950,2024-08-26,Premium,India
+NF01951,2024-11-18,Standard,India
+NF01952,2024-01-20,Standard,United States
+NF01953,2024-10-01,Mobile,United States
+NF01954,2025-11-29,Standard,Germany
+NF01955,2025-03-24,Premium,France
+NF01956,2023-12-11,Premium,Brazil
+NF01957,2025-12-11,Basic,United States
+NF01958,2023-11-26,Mobile,Australia
+NF01959,2023-06-06,Standard,India
+NF01960,2024-12-22,Basic,United States
+NF01961,2025-03-14,Mobile,India
+NF01962,2025-09-17,Mobile,France
+NF01963,2023-04-09,Basic,India
+NF01964,2024-12-04,Standard,India
+NF01965,2025-11-22,Mobile,Japan
+NF01966,2024-09-05,Basic,United Kingdom
+NF01967,2025-08-04,Basic,Germany
+NF01968,2023-05-13,Standard,Japan
+NF01969,2023-01-14,Basic,India
+NF01970,2023-10-09,Mobile,United Kingdom
+NF01971,2025-09-25,Premium,France
+NF01972,2025-05-25,Standard,India
+NF01973,2025-03-15,Mobile,United States
+NF01974,2023-05-30,Basic,India
+NF01975,2025-10-25,Premium,United States
+NF01976,2025-10-27,Basic,United States
+NF01977,2024-02-16,Premium,India
+NF01978,2025-11-04,Standard,India
+NF01979,2023-09-30,Standard,United States
+NF01980,2024-12-01,Basic,India
+NF01981,2024-07-10,Basic,India
+NF01982,2023-11-28,Mobile,India
+NF01983,2023-08-11,Standard,India
+NF01984,2025-10-09,Premium,Australia
+NF01985,2025-07-16,Basic,France
+NF01986,2025-05-24,Basic,Australia
+NF01987,2024-01-23,Standard,Brazil
+NF01988,2025-03-18,Standard,India
+NF01989,2025-11-10,Standard,Australia
+NF01990,2023-06-05,Mobile,Mexico
+NF01991,2025-05-01,Premium,Mexico
+NF01992,2024-10-31,Premium,India
+NF01993,2024-06-08,Standard,India
+NF01994,2025-06-14,Mobile,United States
+NF01995,2024-10-21,Standard,India
+NF01996,2023-09-12,Standard,Mexico
+NF01997,2025-01-12,Premium,India
+NF01998,2023-10-11,Standard,United States
+NF01999,2024-02-06,Standard,Mexico
+NF02000,2024-05-05,Standard,Mexico
+NF02001,2024-07-10,Basic,United Kingdom
+NF02002,2025-05-30,Premium,India
+NF02003,2023-10-02,Standard,United Kingdom
+NF02004,2023-04-16,Standard,India
+NF02005,2025-01-14,Standard,India
+NF02006,2025-02-08,Mobile,Australia
+NF02007,2023-06-03,Standard,India
+NF02008,2024-09-23,Basic,India
+NF02009,2024-06-13,Mobile,France
+NF02010,2025-02-16,Basic,India
+NF02011,2023-03-28,Standard,Germany
+NF02012,2023-06-18,Standard,India
+NF02013,2023-04-22,Premium,United Kingdom
+NF02014,2025-11-23,Basic,India
+NF02015,2025-01-20,Standard,United States
+NF02016,2023-06-20,Basic,United Kingdom
+NF02017,2023-01-06,Standard,Japan
+NF02018,2025-06-22,Standard,India
+NF02019,2024-06-12,Basic,Australia
+NF02020,2023-01-11,Basic,Canada
+NF02021,2024-12-23,Standard,Australia
+NF02022,2025-02-27,Standard,France
+NF02023,2024-03-23,Premium,Germany
+NF02024,2023-11-30,Basic,United Kingdom
+NF02025,2023-06-18,Basic,India
+NF02026,2024-02-19,Standard,United States
+NF02027,2025-04-20,Basic,Mexico
+NF02028,2025-08-22,Standard,Brazil
+NF02029,2023-08-21,Premium,United States
+NF02030,2024-03-07,Standard,Canada
+NF02031,2024-05-15,Premium,Brazil
+NF02032,2024-08-08,Mobile,Brazil
+NF02033,2024-03-09,Standard,India
+NF02034,2024-11-06,Standard,India
+NF02035,2024-12-15,Standard,Canada
+NF02036,2023-01-13,Mobile,France
+NF02037,2023-01-17,Basic,India
+NF02038,2025-01-27,Standard,United Kingdom
+NF02039,2025-06-01,Mobile,France
+NF02040,2025-11-05,Standard,United States
+NF02041,2024-08-04,Standard,India
+NF02042,2024-03-16,Premium,United States
+NF02043,2023-07-25,Premium,India
+NF02044,2025-07-12,Standard,Brazil
+NF02045,2023-05-10,Premium,United States
+NF02046,2023-09-09,Standard,Australia
+NF02047,2024-06-05,Standard,India
+NF02048,2024-08-21,Basic,Germany
+NF02049,2024-09-14,Standard,United States
+NF02050,2023-09-26,Mobile,Australia
+NF02051,2023-09-26,Basic,United States
+NF02052,2023-08-16,Standard,Japan
+NF02053,2023-12-04,Standard,Australia
+NF02054,2024-11-28,Mobile,India
+NF02055,2023-08-25,Premium,Germany
+NF02056,2023-02-01,Standard,India
+NF02057,2024-12-12,Basic,India
+NF02058,2025-12-20,Standard,United Kingdom
+NF02059,2025-03-27,Mobile,United States
+NF02060,2025-02-07,Standard,United States
+NF02061,2024-03-13,Basic,India
+NF02062,2023-10-22,Basic,Brazil
+NF02063,2024-12-18,Basic,India
+NF02064,2024-10-24,Standard,India
+NF02065,2025-04-07,Standard,United States
+NF02066,2023-03-02,Basic,India
+NF02067,2023-09-18,Standard,Australia
+NF02068,2024-12-29,Standard,United States
+NF02069,2025-09-26,Basic,India
+NF02070,2025-07-13,Standard,India
+NF02071,2025-03-28,Standard,Japan
+NF02072,2025-06-04,Premium,Brazil
+NF02073,2025-10-22,Mobile,India
+NF02074,2023-05-22,Premium,France
+NF02075,2025-05-09,Basic,Brazil
+NF02076,2023-06-12,Mobile,India
+NF02077,2024-05-04,Standard,Brazil
+NF02078,2024-12-22,Basic,Canada
+NF02079,2024-01-12,Standard,India
+NF02080,2023-11-09,Basic,United States
+NF02081,2023-09-16,Premium,Australia
+NF02082,2025-10-16,Standard,India
+NF02083,2023-02-02,Standard,India
+NF02084,2024-09-17,Standard,United States
+NF02085,2023-05-11,Mobile,India
+NF02086,2024-09-09,Standard,Brazil
+NF02087,2025-03-19,Premium,India
+NF02088,2025-04-12,Standard,India
+NF02089,2023-07-31,Basic,Japan
+NF02090,2025-08-25,Basic,India
+NF02091,2023-12-28,Standard,Brazil
+NF02092,2024-05-21,Standard,United Kingdom
+NF02093,2025-09-21,Standard,United States
+NF02094,2024-09-07,Mobile,United States
+NF02095,2025-07-14,Basic,Brazil
+NF02096,2023-03-27,Basic,Japan
+NF02097,2025-07-13,Basic,United Kingdom
+NF02098,2025-10-10,Premium,Brazil
+NF02099,2023-05-31,Premium,France
+NF02100,2025-09-07,Basic,Brazil
+NF02101,2024-08-31,Standard,United Kingdom
+NF02102,2023-03-02,Basic,India
+NF02103,2025-03-06,Basic,India
+NF02104,2024-01-21,Standard,United States
+NF02105,2023-09-18,Basic,India
+NF02106,2025-09-05,Standard,United States
+NF02107,2023-11-11,Standard,India
+NF02108,2024-10-04,Mobile,United States
+NF02109,2023-12-02,Basic,India
+NF02110,2023-12-17,Standard,United States
+NF02111,2024-09-03,Standard,India
+NF02112,2024-01-23,Premium,United Kingdom
+NF02113,2024-07-17,Mobile,India
+NF02114,2024-12-29,Premium,Mexico
+NF02115,2024-07-26,Mobile,United States
+NF02116,2025-01-25,Standard,India
+NF02117,2025-06-15,Basic,United States
+NF02118,2023-06-12,Premium,India
+NF02119,2023-05-07,Basic,United Kingdom
+NF02120,2024-05-04,Mobile,India
+NF02121,2025-02-18,Standard,Japan
+NF02122,2025-07-03,Standard,India
+NF02123,2024-05-09,Premium,United Kingdom
+NF02124,2025-07-02,Premium,India
+NF02125,2023-07-26,Standard,India
+NF02126,2025-02-04,Premium,France
+NF02127,2025-01-17,Mobile,India
+NF02128,2025-06-05,Basic,Japan
+NF02129,2023-01-09,Mobile,United States
+NF02130,2025-01-22,Standard,Australia
+NF02131,2024-08-02,Standard,India
+NF02132,2025-07-05,Standard,Australia
+NF02133,2025-07-04,Basic,Canada
+NF02134,2024-01-25,Premium,India
+NF02135,2024-09-10,Standard,Mexico
+NF02136,2023-03-19,Mobile,Germany
+NF02137,2023-04-25,Mobile,Brazil
+NF02138,2023-04-15,Standard,India
+NF02139,2024-11-30,Standard,Canada
+NF02140,2024-10-12,Standard,United Kingdom
+NF02141,2025-10-03,Basic,United States
+NF02142,2023-01-14,Mobile,India
+NF02143,2025-07-10,Basic,India
+NF02144,2025-07-10,Mobile,France
+NF02145,2023-06-19,Standard,India
+NF02146,2023-07-28,Premium,India
+NF02147,2025-06-19,Basic,India
+NF02148,2025-06-14,Mobile,United States
+NF02149,2025-06-17,Premium,India
+NF02150,2024-01-25,Premium,India
+NF02151,2025-06-04,Basic,India
+NF02152,2023-04-27,Standard,United Kingdom
+NF02153,2025-12-31,Basic,Japan
+NF02154,2024-02-10,Standard,Mexico
+NF02155,2023-07-08,Mobile,India
+NF02156,2023-01-10,Standard,United Kingdom
+NF02157,2025-03-31,Basic,Germany
+NF02158,2023-08-09,Standard,India
+NF02159,2023-01-08,Standard,Japan
+NF02160,2023-06-10,Premium,France
+NF02161,2024-04-25,Standard,India
+NF02162,2025-12-05,Standard,Mexico
+NF02163,2024-10-06,Basic,United Kingdom
+NF02164,2024-04-19,Basic,India
+NF02165,2024-08-17,Standard,India
+NF02166,2024-08-24,Basic,Germany
+NF02167,2023-06-30,Standard,United States
+NF02168,2023-03-03,Premium,India
+NF02169,2023-06-21,Mobile,Germany
+NF02170,2023-03-06,Standard,Canada
+NF02171,2025-03-12,Mobile,Brazil
+NF02172,2024-10-21,Mobile,United States
+NF02173,2025-03-20,Basic,India
+NF02174,2024-01-06,Premium,India
+NF02175,2024-07-11,Premium,Brazil
+NF02176,2023-11-22,Mobile,Germany
+NF02177,2024-11-15,Standard,India
+NF02178,2023-06-28,Mobile,India
+NF02179,2023-03-17,Standard,United States
+NF02180,2025-04-11,Basic,India
+NF02181,2023-08-19,Premium,United States
+NF02182,2025-10-29,Standard,United Kingdom
+NF02183,2023-11-08,Standard,United States
+NF02184,2024-02-09,Standard,India
+NF02185,2025-04-20,Premium,United Kingdom
+NF02186,2024-02-17,Standard,Germany
+NF02187,2023-08-14,Standard,Canada
+NF02188,2023-11-17,Basic,Germany
+NF02189,2025-05-01,Standard,Mexico
+NF02190,2023-07-11,Mobile,Germany
+NF02191,2024-05-18,Standard,India
+NF02192,2023-12-11,Mobile,Mexico
+NF02193,2024-03-13,Mobile,Canada
+NF02194,2025-06-19,Basic,Germany
+NF02195,2024-11-27,Basic,Japan
+NF02196,2023-04-02,Premium,France
+NF02197,2025-02-01,Standard,United States
+NF02198,2025-06-17,Basic,India
+NF02199,2024-12-13,Premium,Canada
+NF02200,2023-03-02,Premium,Brazil
+NF02201,2024-07-13,Standard,India
+NF02202,2024-08-12,Basic,India
+NF02203,2023-02-02,Basic,India
+NF02204,2025-04-20,Premium,United States
+NF02205,2023-06-11,Standard,Mexico
+NF02206,2024-01-07,Basic,India
+NF02207,2023-12-16,Standard,Brazil
+NF02208,2025-08-18,Standard,Canada
+NF02209,2025-10-31,Basic,United States
+NF02210,2025-04-15,Standard,Brazil
+NF02211,2024-01-25,Premium,Mexico
+NF02212,2024-12-03,Mobile,France
+NF02213,2024-12-13,Standard,Australia
+NF02214,2024-01-30,Premium,India
+NF02215,2023-10-08,Standard,Mexico
+NF02216,2023-05-30,Standard,Australia
+NF02217,2024-05-14,Basic,Mexico
+NF02218,2024-10-14,Standard,India
+NF02219,2025-03-02,Standard,Australia
+NF02220,2023-08-12,Standard,Mexico
+NF02221,2024-12-03,Standard,India
+NF02222,2025-08-21,Standard,United States
+NF02223,2025-04-24,Premium,India
+NF02224,2025-08-21,Mobile,India
+NF02225,2025-05-23,Standard,India
+NF02226,2024-06-26,Premium,Canada
+NF02227,2025-12-24,Basic,United Kingdom
+NF02228,2025-01-26,Standard,Canada
+NF02229,2024-05-19,Basic,United States
+NF02230,2025-03-07,Basic,United Kingdom
+NF02231,2025-10-28,Basic,India
+NF02232,2024-01-12,Premium,United States
+NF02233,2023-01-14,Standard,France
+NF02234,2023-06-18,Standard,United States
+NF02235,2025-03-11,Basic,Mexico
+NF02236,2024-04-14,Basic,Germany
+NF02237,2023-02-05,Basic,France
+NF02238,2024-07-05,Premium,Canada
+NF02239,2025-09-18,Basic,Japan
+NF02240,2025-01-29,Standard,United States
+NF02241,2025-10-25,Basic,United States
+NF02242,2025-01-19,Standard,India
+NF02243,2023-03-12,Premium,Japan
+NF02244,2023-03-02,Basic,India
+NF02245,2025-05-19,Standard,Japan
+NF02246,2025-10-07,Basic,Brazil
+NF02247,2024-08-10,Premium,Brazil
+NF02248,2023-08-13,Premium,India
+NF02249,2025-07-16,Standard,France
+NF02250,2023-09-14,Basic,United Kingdom
+NF02251,2025-05-08,Standard,United Kingdom
+NF02252,2023-04-08,Premium,Brazil
+NF02253,2024-04-30,Standard,India
+NF02254,2024-06-27,Premium,United States
+NF02255,2024-09-13,Premium,United States
+NF02256,2025-10-10,Mobile,India
+NF02257,2024-11-20,Standard,Brazil
+NF02258,2024-12-27,Basic,United States
+NF02259,2025-06-23,Mobile,India
+NF02260,2024-06-22,Mobile,India
+NF02261,2025-02-28,Premium,Mexico
+NF02262,2025-07-30,Premium,India
+NF02263,2023-01-27,Premium,United States
+NF02264,2025-11-06,Mobile,India
+NF02265,2025-08-06,Basic,India
+NF02266,2024-09-06,Basic,Brazil
+NF02267,2024-12-05,Basic,Australia
+NF02268,2025-05-19,Premium,Canada
+NF02269,2024-11-09,Standard,Mexico
+NF02270,2025-12-13,Standard,Germany
+NF02271,2024-12-13,Premium,India
+NF02272,2023-02-02,Basic,United Kingdom
+NF02273,2023-11-11,Premium,Australia
+NF02274,2024-10-03,Premium,United States
+NF02275,2024-11-27,Standard,Mexico
+NF02276,2025-01-24,Standard,France
+NF02277,2025-03-18,Standard,United Kingdom
+NF02278,2024-08-19,Basic,India
+NF02279,2023-04-22,Basic,Canada
+NF02280,2023-11-29,Mobile,United States
+NF02281,2024-08-21,Premium,India
+NF02282,2023-10-20,Standard,United States
+NF02283,2024-06-09,Standard,Brazil
+NF02284,2025-08-28,Mobile,Canada
+NF02285,2023-10-17,Premium,Canada
+NF02286,2025-08-23,Basic,India
+NF02287,2025-12-05,Basic,Japan
+NF02288,2023-05-31,Basic,India
+NF02289,2025-09-21,Basic,India
+NF02290,2025-03-26,Standard,Germany
+NF02291,2024-03-04,Standard,Germany
+NF02292,2025-02-05,Basic,India
+NF02293,2023-05-12,Mobile,Brazil
+NF02294,2024-05-21,Mobile,Australia
+NF02295,2024-02-12,Standard,United States
+NF02296,2024-03-11,Standard,India
+NF02297,2025-06-16,Mobile,India
+NF02298,2023-12-22,Standard,United States
+NF02299,2024-09-25,Standard,United States
+NF02300,2025-02-25,Mobile,India
+NF02301,2025-05-15,Standard,United States
+NF02302,2024-05-10,Basic,India
+NF02303,2025-05-06,Standard,Brazil
+NF02304,2025-01-12,Standard,Brazil
+NF02305,2023-07-12,Standard,Brazil
+NF02306,2025-02-05,Mobile,India
+NF02307,2024-02-01,Premium,India
+NF02308,2025-12-11,Basic,United States
+NF02309,2025-06-02,Basic,United States
+NF02310,2025-01-19,Premium,Canada
+NF02311,2025-02-01,Basic,United Kingdom
+NF02312,2023-03-28,Premium,United Kingdom
+NF02313,2025-06-17,Basic,India
+NF02314,2023-08-31,Premium,India
+NF02315,2025-04-06,Basic,United States
+NF02316,2024-10-07,Premium,India
+NF02317,2025-12-16,Mobile,Germany
+NF02318,2023-01-28,Standard,India
+NF02319,2024-12-24,Standard,United States
+NF02320,2024-05-12,Basic,United States
+NF02321,2024-09-11,Mobile,India
+NF02322,2023-12-02,Basic,India
+NF02323,2025-01-16,Standard,Australia
+NF02324,2023-07-16,Mobile,United States
+NF02325,2023-06-05,Mobile,United States
+NF02326,2023-02-19,Standard,Brazil
+NF02327,2023-04-14,Standard,United States
+NF02328,2023-01-19,Standard,India
+NF02329,2024-01-16,Basic,United States
+NF02330,2023-07-06,Standard,France
+NF02331,2025-01-16,Standard,United States
+NF02332,2025-10-25,Standard,India
+NF02333,2025-12-13,Standard,Germany
+NF02334,2023-12-25,Mobile,United Kingdom
+NF02335,2025-08-25,Standard,India
+NF02336,2025-10-24,Basic,Canada
+NF02337,2024-10-10,Basic,Australia
+NF02338,2023-04-18,Standard,Brazil
+NF02339,2023-03-06,Mobile,United States
+NF02340,2024-10-24,Mobile,France
+NF02341,2024-10-31,Mobile,United States
+NF02342,2024-08-02,Basic,Germany
+NF02343,2024-10-02,Standard,Japan
+NF02344,2024-11-26,Basic,Mexico
+NF02345,2024-02-06,Standard,Germany
+NF02346,2025-07-17,Premium,France
+NF02347,2025-03-07,Basic,India
+NF02348,2024-03-03,Basic,India
+NF02349,2025-03-04,Standard,United States
+NF02350,2024-12-30,Mobile,Germany
+NF02351,2023-11-21,Standard,United States
+NF02352,2023-08-20,Mobile,Germany
+NF02353,2023-11-19,Premium,India
+NF02354,2025-05-11,Premium,Canada
+NF02355,2023-06-17,Basic,India
+NF02356,2024-08-08,Basic,United States
+NF02357,2025-11-17,Standard,Mexico
+NF02358,2023-03-30,Standard,India
+NF02359,2024-08-22,Premium,United Kingdom
+NF02360,2023-11-18,Premium,Mexico
+NF02361,2025-07-04,Premium,Australia
+NF02362,2023-05-28,Standard,India
+NF02363,2024-10-16,Standard,United States
+NF02364,2025-03-27,Mobile,Japan
+NF02365,2023-05-23,Premium,India
+NF02366,2024-03-18,Basic,India
+NF02367,2023-06-07,Standard,Japan
+NF02368,2024-07-27,Basic,France
+NF02369,2023-01-03,Premium,India
+NF02370,2024-10-30,Standard,India
+NF02371,2023-11-23,Standard,India
+NF02372,2024-02-13,Standard,Germany
+NF02373,2025-05-14,Mobile,United States
+NF02374,2025-12-16,Standard,India
+NF02375,2024-06-20,Basic,India
+NF02376,2025-04-05,Standard,India
+NF02377,2024-03-01,Standard,Mexico
+NF02378,2024-12-11,Basic,Brazil
+NF02379,2024-03-04,Mobile,United Kingdom
+NF02380,2023-06-16,Standard,Australia
+NF02381,2025-08-08,Basic,France
+NF02382,2024-02-11,Basic,United Kingdom
+NF02383,2024-01-28,Standard,United States
+NF02384,2024-02-20,Premium,India
+NF02385,2025-06-06,Standard,India
+NF02386,2025-02-10,Standard,India
+NF02387,2023-07-12,Standard,United Kingdom
+NF02388,2023-03-31,Premium,Germany
+NF02389,2024-11-12,Premium,United States
+NF02390,2023-06-03,Standard,Canada
+NF02391,2023-06-27,Standard,Brazil
+NF02392,2025-05-20,Mobile,Australia
+NF02393,2025-03-06,Standard,France
+NF02394,2024-02-24,Standard,United Kingdom
+NF02395,2025-03-09,Standard,United Kingdom
+NF02396,2023-11-25,Premium,India
+NF02397,2024-05-26,Premium,Australia
+NF02398,2023-04-26,Mobile,Mexico
+NF02399,2025-06-19,Standard,India
+NF02400,2023-04-03,Standard,India
+NF02401,2025-10-28,Mobile,United States
+NF02402,2024-04-04,Premium,Japan
+NF02403,2023-11-22,Premium,France
+NF02404,2024-05-19,Basic,Brazil
+NF02405,2024-11-15,Mobile,India
+NF02406,2025-11-29,Premium,United States
+NF02407,2025-11-08,Basic,India
+NF02408,2024-12-29,Basic,France
+NF02409,2025-12-06,Mobile,United Kingdom
+NF02410,2023-09-01,Premium,India
+NF02411,2023-01-23,Mobile,Brazil
+NF02412,2025-01-18,Standard,United Kingdom
+NF02413,2025-11-02,Basic,Brazil
+NF02414,2023-01-15,Basic,Germany
+NF02415,2025-08-28,Standard,India
+NF02416,2025-03-27,Standard,United Kingdom
+NF02417,2025-03-29,Basic,India
+NF02418,2023-12-09,Basic,India
+NF02419,2025-06-21,Basic,India
+NF02420,2025-01-14,Standard,Germany
+NF02421,2025-06-18,Standard,France
+NF02422,2025-11-13,Standard,France
+NF02423,2024-07-24,Mobile,Germany
+NF02424,2025-12-20,Standard,Canada
+NF02425,2024-01-02,Basic,India
+NF02426,2024-08-31,Basic,United States
+NF02427,2025-10-03,Mobile,United States
+NF02428,2023-03-18,Mobile,Australia
+NF02429,2023-10-11,Basic,United States
+NF02430,2023-03-09,Basic,India
+NF02431,2025-02-12,Basic,United Kingdom
+NF02432,2023-10-25,Premium,India
+NF02433,2023-06-26,Premium,India
+NF02434,2023-04-14,Standard,India
+NF02435,2025-03-20,Basic,France
+NF02436,2023-11-12,Basic,India
+NF02437,2025-10-27,Standard,Mexico
+NF02438,2025-08-28,Mobile,Brazil
+NF02439,2024-01-08,Basic,France
+NF02440,2023-12-03,Basic,Germany
+NF02441,2025-08-25,Mobile,United States
+NF02442,2023-12-28,Basic,Brazil
+NF02443,2024-09-28,Premium,Mexico
+NF02444,2025-06-29,Basic,Germany
+NF02445,2025-07-28,Standard,India
+NF02446,2025-04-13,Standard,United States
+NF02447,2024-10-30,Standard,France
+NF02448,2023-12-20,Basic,India
+NF02449,2023-09-22,Basic,India
+NF02450,2024-07-04,Standard,United Kingdom
+NF02451,2025-12-21,Basic,India
+NF02452,2024-09-05,Mobile,United States
+NF02453,2024-03-13,Standard,India
+NF02454,2025-03-03,Premium,United Kingdom
+NF02455,2023-06-15,Standard,India
+NF02456,2023-05-27,Basic,United Kingdom
+NF02457,2024-02-08,Premium,Germany
+NF02458,2025-04-05,Premium,India
+NF02459,2025-07-15,Standard,India
+NF02460,2023-04-17,Basic,India
+NF02461,2023-06-04,Basic,Mexico
+NF02462,2024-10-05,Standard,India
+NF02463,2025-03-21,Mobile,France
+NF02464,2025-11-01,Basic,India
+NF02465,2024-03-29,Standard,United States
+NF02466,2023-07-07,Standard,Australia
+NF02467,2023-10-05,Premium,India
+NF02468,2025-04-28,Mobile,India
+NF02469,2024-12-21,Standard,Australia
+NF02470,2024-03-04,Standard,India
+NF02471,2024-09-05,Standard,India
+NF02472,2023-09-13,Standard,Australia
+NF02473,2024-09-10,Standard,India
+NF02474,2024-07-17,Premium,United States
+NF02475,2023-06-28,Basic,India
+NF02476,2023-07-28,Basic,United States
+NF02477,2025-06-01,Basic,Japan
+NF02478,2024-05-02,Mobile,India
+NF02479,2023-05-28,Standard,United States
+NF02480,2024-10-04,Basic,India
+NF02481,2024-06-30,Standard,United States
+NF02482,2025-04-24,Standard,United States
+NF02483,2023-06-15,Basic,Mexico
+NF02484,2025-06-11,Standard,Germany
+NF02485,2025-09-23,Standard,Japan
+NF02486,2025-08-31,Basic,Australia
+NF02487,2023-06-18,Basic,India
+NF02488,2024-06-16,Premium,Japan
+NF02489,2024-01-19,Standard,India
+NF02490,2025-09-29,Basic,France
+NF02491,2025-09-08,Mobile,India
+NF02492,2025-09-09,Mobile,France
+NF02493,2025-08-05,Basic,India
+NF02494,2024-06-19,Standard,Brazil
+NF02495,2023-01-22,Mobile,France
+NF02496,2023-05-01,Standard,United Kingdom
+NF02497,2023-09-01,Mobile,Australia
+NF02498,2024-02-04,Standard,India
+NF02499,2024-07-23,Basic,United States
+NF02500,2025-03-28,Mobile,United States
+NF02501,2023-09-12,Premium,Mexico
+NF02502,2024-09-06,Basic,Canada
+NF02503,2024-06-11,Premium,India
+NF02504,2023-07-25,Mobile,United Kingdom
+NF02505,2023-09-27,Standard,India
+NF02506,2025-08-01,Premium,Japan
+NF02507,2024-06-11,Standard,United States
+NF02508,2024-12-08,Standard,Brazil
+NF02509,2024-01-20,Standard,United Kingdom
+NF02510,2023-05-21,Basic,Canada
+NF02511,2023-10-30,Standard,France
+NF02512,2025-06-17,Premium,India
+NF02513,2025-08-20,Premium,India
+NF02514,2024-07-18,Standard,India
+NF02515,2024-12-10,Mobile,Brazil
+NF02516,2024-01-27,Mobile,India
+NF02517,2025-09-11,Basic,India
+NF02518,2024-07-27,Standard,India
+NF02519,2024-12-08,Basic,France
+NF02520,2024-08-15,Standard,United States
+NF02521,2024-08-23,Standard,India
+NF02522,2025-12-07,Standard,India
+NF02523,2024-07-27,Standard,Brazil
+NF02524,2025-01-20,Premium,Canada
+NF02525,2024-04-07,Premium,United States
+NF02526,2023-10-27,Mobile,India
+NF02527,2023-06-11,Premium,India
+NF02528,2024-04-02,Premium,United States
+NF02529,2024-09-25,Basic,Mexico
+NF02530,2023-05-03,Mobile,India
+NF02531,2025-11-08,Basic,India
+NF02532,2024-01-25,Basic,United Kingdom
+NF02533,2025-11-04,Standard,United Kingdom
+NF02534,2025-06-03,Standard,India
+NF02535,2023-05-03,Basic,United States
+NF02536,2024-03-19,Mobile,Brazil
+NF02537,2023-05-27,Mobile,Germany
+NF02538,2025-06-06,Standard,Australia
+NF02539,2024-01-05,Standard,France
+NF02540,2023-12-12,Basic,India
+NF02541,2025-05-07,Standard,India
+NF02542,2024-11-13,Basic,India
+NF02543,2023-01-13,Standard,India
+NF02544,2023-03-22,Basic,Germany
+NF02545,2023-01-30,Standard,Mexico
+NF02546,2023-05-27,Basic,United States
+NF02547,2024-04-16,Standard,France
+NF02548,2024-03-24,Premium,Germany
+NF02549,2024-01-24,Basic,India
+NF02550,2025-10-01,Standard,India
+NF02551,2024-09-10,Basic,India
+NF02552,2025-02-19,Basic,Japan
+NF02553,2023-07-11,Mobile,India
+NF02554,2023-08-30,Standard,United States
+NF02555,2023-10-03,Premium,India
+NF02556,2023-11-23,Basic,United States
+NF02557,2025-03-06,Basic,India
+NF02558,2023-02-19,Standard,India
+NF02559,2023-03-22,Basic,United States
+NF02560,2024-12-03,Premium,Germany
+NF02561,2023-05-30,Standard,Mexico
+NF02562,2025-11-04,Standard,India
+NF02563,2023-01-30,Standard,India
+NF02564,2024-12-04,Standard,India
+NF02565,2024-03-13,Standard,Japan
+NF02566,2025-04-07,Premium,India
+NF02567,2025-09-20,Premium,India
+NF02568,2024-02-21,Standard,United Kingdom
+NF02569,2024-11-04,Standard,India
+NF02570,2025-05-04,Standard,Mexico
+NF02571,2024-05-28,Premium,United States
+NF02572,2024-06-20,Basic,United Kingdom
+NF02573,2024-02-19,Standard,India
+NF02574,2025-02-17,Premium,India
+NF02575,2025-11-25,Mobile,Canada
+NF02576,2023-10-11,Basic,Canada
+NF02577,2023-10-31,Basic,Brazil
+NF02578,2025-02-11,Premium,United States
+NF02579,2024-02-14,Basic,Canada
+NF02580,2023-09-14,Basic,Germany
+NF02581,2023-03-13,Mobile,Australia
+NF02582,2024-01-04,Premium,Japan
+NF02583,2024-07-06,Standard,India
+NF02584,2023-11-08,Standard,Canada
+NF02585,2025-02-22,Standard,India
+NF02586,2024-04-24,Standard,United Kingdom
+NF02587,2023-12-27,Premium,India
+NF02588,2023-08-25,Basic,United States
+NF02589,2024-03-18,Premium,United Kingdom
+NF02590,2024-10-24,Basic,United States
+NF02591,2024-10-16,Basic,India
+NF02592,2024-12-08,Premium,United States
+NF02593,2024-02-20,Basic,Germany
+NF02594,2023-09-07,Basic,India
+NF02595,2025-12-23,Mobile,Australia
+NF02596,2025-04-25,Premium,United States
+NF02597,2025-09-13,Premium,India
+NF02598,2024-12-28,Standard,United States
+NF02599,2025-06-06,Premium,India
+NF02600,2025-11-16,Premium,Brazil
+NF02601,2023-12-08,Mobile,India
+NF02602,2025-08-06,Standard,United States
+NF02603,2024-09-26,Standard,India
+NF02604,2025-11-03,Premium,Australia
+NF02605,2025-10-31,Standard,India
+NF02606,2025-10-07,Basic,France
+NF02607,2025-10-09,Standard,India
+NF02608,2025-09-20,Standard,Canada
+NF02609,2025-01-03,Mobile,United States
+NF02610,2025-12-14,Basic,United Kingdom
+NF02611,2025-10-01,Standard,Brazil
+NF02612,2025-11-13,Premium,India
+NF02613,2024-07-19,Basic,India
+NF02614,2024-01-26,Standard,Mexico
+NF02615,2023-07-06,Standard,India
+NF02616,2023-05-26,Standard,Australia
+NF02617,2025-01-06,Basic,United Kingdom
+NF02618,2025-10-16,Mobile,Germany
+NF02619,2024-12-21,Premium,India
+NF02620,2023-12-09,Mobile,Brazil
+NF02621,2023-07-25,Premium,Brazil
+NF02622,2025-08-06,Basic,United States
+NF02623,2023-02-15,Basic,India
+NF02624,2025-12-27,Basic,India
+NF02625,2023-07-13,Mobile,India
+NF02626,2024-11-11,Standard,India
+NF02627,2025-07-10,Standard,France
+NF02628,2023-11-10,Mobile,Australia
+NF02629,2023-03-15,Mobile,United States
+NF02630,2024-12-28,Standard,United States
+NF02631,2025-09-11,Premium,India
+NF02632,2025-07-15,Basic,Australia
+NF02633,2024-04-09,Standard,United States
+NF02634,2023-07-06,Standard,United States
+NF02635,2023-07-30,Mobile,India
+NF02636,2025-08-19,Mobile,Germany
+NF02637,2024-08-04,Standard,India
+NF02638,2025-02-26,Premium,India
+NF02639,2025-06-02,Standard,United States
+NF02640,2025-10-08,Standard,India
+NF02641,2023-11-08,Standard,France
+NF02642,2024-01-15,Basic,Germany
+NF02643,2024-10-19,Standard,Brazil
+NF02644,2025-09-24,Basic,India
+NF02645,2025-07-05,Mobile,United Kingdom
+NF02646,2023-07-21,Basic,India
+NF02647,2025-08-27,Standard,India
+NF02648,2025-03-06,Mobile,India
+NF02649,2025-06-24,Premium,United States
+NF02650,2025-10-17,Basic,Brazil
+NF02651,2023-03-01,Standard,Australia
+NF02652,2024-08-28,Standard,United States
+NF02653,2023-02-04,Basic,United Kingdom
+NF02654,2023-06-15,Standard,France
+NF02655,2023-12-31,Basic,India
+NF02656,2025-11-19,Basic,India
+NF02657,2024-12-14,Standard,Japan
+NF02658,2024-10-05,Standard,India
+NF02659,2023-04-04,Standard,India
+NF02660,2023-10-29,Premium,India
+NF02661,2023-01-16,Standard,United Kingdom
+NF02662,2025-10-04,Standard,Australia
+NF02663,2024-03-20,Standard,India
+NF02664,2025-06-24,Standard,India
+NF02665,2023-02-24,Standard,Brazil
+NF02666,2025-10-25,Standard,Germany
+NF02667,2024-08-14,Premium,India
+NF02668,2024-12-10,Standard,France
+NF02669,2025-03-05,Premium,India
+NF02670,2023-08-28,Standard,India
+NF02671,2024-06-07,Standard,Australia
+NF02672,2024-10-17,Basic,France
+NF02673,2025-05-18,Premium,United Kingdom
+NF02674,2024-07-10,Premium,Australia
+NF02675,2024-10-03,Basic,United Kingdom
+NF02676,2024-07-10,Mobile,United States
+NF02677,2023-12-16,Mobile,France
+NF02678,2023-01-16,Mobile,India
+NF02679,2025-05-29,Basic,Mexico
+NF02680,2023-10-09,Mobile,United States
+NF02681,2024-03-04,Basic,Brazil
+NF02682,2023-10-23,Standard,Brazil
+NF02683,2025-02-01,Mobile,Canada
+NF02684,2023-04-07,Standard,India
+NF02685,2024-05-18,Premium,Japan
+NF02686,2024-02-20,Mobile,United Kingdom
+NF02687,2024-10-19,Mobile,India
+NF02688,2024-05-06,Standard,India
+NF02689,2023-08-23,Mobile,France
+NF02690,2025-01-21,Standard,Mexico
+NF02691,2025-05-15,Standard,India
+NF02692,2024-07-23,Mobile,Brazil
+NF02693,2025-02-18,Standard,India
+NF02694,2024-05-12,Standard,France
+NF02695,2024-08-23,Standard,India
+NF02696,2023-06-10,Premium,Brazil
+NF02697,2024-10-09,Basic,India
+NF02698,2023-09-16,Premium,France
+NF02699,2025-08-10,Standard,Canada
+NF02700,2023-12-18,Mobile,India
+NF02701,2023-07-15,Premium,United Kingdom
+NF02702,2023-06-12,Standard,Mexico
+NF02703,2023-01-16,Basic,United States
+NF02704,2023-10-09,Premium,Japan
+NF02705,2023-09-22,Standard,Canada
+NF02706,2024-03-18,Basic,India
+NF02707,2023-01-23,Standard,United Kingdom
+NF02708,2023-09-10,Standard,Germany
+NF02709,2025-08-17,Standard,United Kingdom
+NF02710,2023-10-07,Premium,Japan
+NF02711,2025-09-17,Premium,United States
+NF02712,2025-05-08,Mobile,Australia
+NF02713,2023-03-30,Standard,France
+NF02714,2024-02-02,Basic,India
+NF02715,2023-02-04,Standard,India
+NF02716,2024-02-24,Mobile,United Kingdom
+NF02717,2024-03-17,Mobile,Brazil
+NF02718,2025-05-07,Premium,India
+NF02719,2024-01-21,Standard,France
+NF02720,2025-04-21,Mobile,Australia
+NF02721,2024-07-19,Standard,Australia
+NF02722,2025-02-24,Standard,Japan
+NF02723,2023-12-27,Premium,Mexico
+NF02724,2024-09-29,Basic,India
+NF02725,2023-02-02,Basic,Japan
+NF02726,2023-03-11,Mobile,Canada
+NF02727,2025-03-20,Basic,Mexico
+NF02728,2025-07-31,Mobile,India
+NF02729,2023-03-28,Standard,Brazil
+NF02730,2024-11-18,Basic,India
+NF02731,2023-05-06,Basic,India
+NF02732,2025-10-27,Mobile,Mexico
+NF02733,2023-03-14,Standard,India
+NF02734,2023-07-18,Standard,United Kingdom
+NF02735,2025-06-21,Basic,Brazil
+NF02736,2023-05-09,Basic,India
+NF02737,2023-07-01,Standard,India
+NF02738,2025-09-15,Premium,United States
+NF02739,2023-03-29,Basic,United Kingdom
+NF02740,2023-12-12,Standard,Australia
+NF02741,2025-08-15,Premium,India
+NF02742,2025-11-17,Standard,United States
+NF02743,2023-05-20,Premium,United States
+NF02744,2025-04-08,Premium,Brazil
+NF02745,2025-10-27,Standard,France
+NF02746,2023-09-04,Premium,Brazil
+NF02747,2024-07-22,Mobile,United States
+NF02748,2024-11-17,Standard,Brazil
+NF02749,2024-01-19,Standard,India
+NF02750,2024-01-10,Standard,Brazil
+NF02751,2024-02-08,Mobile,United States
+NF02752,2025-06-18,Premium,United States
+NF02753,2023-01-29,Mobile,India
+NF02754,2024-12-06,Mobile,India
+NF02755,2024-07-31,Standard,Canada
+NF02756,2025-03-10,Premium,United Kingdom
+NF02757,2025-03-09,Basic,United States
+NF02758,2023-11-10,Standard,Germany
+NF02759,2024-05-09,Standard,Mexico
+NF02760,2023-01-25,Premium,Canada
+NF02761,2024-06-05,Mobile,India
+NF02762,2024-03-28,Standard,United Kingdom
+NF02763,2025-06-09,Standard,India
+NF02764,2025-02-24,Premium,Brazil
+NF02765,2024-02-14,Standard,India
+NF02766,2025-09-26,Mobile,United States
+NF02767,2024-07-04,Premium,United States
+NF02768,2023-12-04,Premium,United Kingdom
+NF02769,2024-12-01,Mobile,Germany
+NF02770,2024-05-17,Basic,India
+NF02771,2025-11-19,Mobile,Canada
+NF02772,2025-08-24,Standard,United States
+NF02773,2023-01-11,Mobile,Brazil
+NF02774,2023-10-03,Premium,Canada
+NF02775,2024-03-19,Basic,Mexico
+NF02776,2025-01-16,Standard,India
+NF02777,2024-11-01,Standard,India
+NF02778,2025-08-26,Premium,Canada
+NF02779,2023-06-22,Premium,India
+NF02780,2024-11-21,Standard,India
+NF02781,2025-09-26,Mobile,France
+NF02782,2023-05-07,Basic,India
+NF02783,2025-01-07,Standard,United Kingdom
+NF02784,2024-12-15,Basic,India
+NF02785,2023-02-14,Mobile,United Kingdom
+NF02786,2023-02-15,Basic,India
+NF02787,2023-03-01,Standard,Brazil
+NF02788,2023-11-05,Mobile,Germany
+NF02789,2025-01-23,Standard,United Kingdom
+NF02790,2025-08-27,Basic,Canada
+NF02791,2025-01-20,Mobile,Mexico
+NF02792,2025-02-21,Standard,India
+NF02793,2024-03-12,Standard,United Kingdom
+NF02794,2023-08-24,Premium,India
+NF02795,2024-09-01,Standard,India
+NF02796,2025-01-28,Premium,Australia
+NF02797,2025-08-04,Standard,India
+NF02798,2024-09-20,Basic,India
+NF02799,2025-12-02,Standard,Japan
+NF02800,2025-06-05,Standard,India
+NF02801,2025-11-01,Standard,United States
+NF02802,2025-01-06,Mobile,France
+NF02803,2023-09-17,Standard,Brazil
+NF02804,2025-06-23,Premium,India
+NF02805,2024-11-23,Standard,Canada
+NF02806,2025-03-10,Standard,United Kingdom
+NF02807,2023-11-07,Basic,France
+NF02808,2023-04-01,Basic,Brazil
+NF02809,2025-11-28,Premium,United States
+NF02810,2024-06-03,Basic,France
+NF02811,2024-10-14,Standard,United States
+NF02812,2023-03-09,Mobile,India
+NF02813,2025-08-09,Standard,United States
+NF02814,2023-11-10,Standard,India
+NF02815,2023-01-14,Standard,United States
+NF02816,2023-11-04,Basic,Canada
+NF02817,2023-06-19,Standard,India
+NF02818,2024-05-28,Mobile,Mexico
+NF02819,2024-12-24,Premium,India
+NF02820,2023-12-27,Basic,India
+NF02821,2023-07-13,Mobile,India
+NF02822,2023-09-12,Standard,Mexico
+NF02823,2023-06-21,Standard,Germany
+NF02824,2025-07-31,Standard,India
+NF02825,2024-07-17,Premium,United States
+NF02826,2023-03-01,Mobile,United Kingdom
+NF02827,2024-04-03,Premium,France
+NF02828,2024-05-22,Mobile,India
+NF02829,2025-02-20,Standard,United Kingdom
+NF02830,2024-12-06,Standard,United Kingdom
+NF02831,2025-03-02,Standard,United States
+NF02832,2023-07-28,Basic,United Kingdom
+NF02833,2023-01-19,Premium,France
+NF02834,2024-05-16,Mobile,Australia
+NF02835,2023-12-23,Standard,United Kingdom
+NF02836,2024-01-10,Mobile,India
+NF02837,2025-09-17,Mobile,India
+NF02838,2025-08-03,Mobile,United Kingdom
+NF02839,2025-05-05,Standard,United States
+NF02840,2023-02-25,Mobile,Japan
+NF02841,2023-08-14,Standard,Canada
+NF02842,2023-03-08,Standard,India
+NF02843,2023-10-27,Standard,Brazil
+NF02844,2024-05-30,Basic,United States
+NF02845,2023-11-20,Mobile,United States
+NF02846,2025-02-14,Basic,India
+NF02847,2023-04-08,Premium,United States
+NF02848,2025-08-15,Basic,India
+NF02849,2023-05-17,Standard,Mexico
+NF02850,2024-07-09,Mobile,India
+NF02851,2024-10-17,Mobile,United States
+NF02852,2025-11-23,Standard,United Kingdom
+NF02853,2023-01-20,Standard,India
+NF02854,2025-01-05,Basic,United States
+NF02855,2025-07-31,Premium,Mexico
+NF02856,2025-11-10,Premium,United Kingdom
+NF02857,2025-05-08,Mobile,United States
+NF02858,2025-07-26,Premium,India
+NF02859,2023-01-15,Mobile,India
+NF02860,2025-09-08,Basic,India
+NF02861,2023-12-24,Standard,India
+NF02862,2023-02-03,Basic,United States
+NF02863,2023-01-03,Standard,Australia
+NF02864,2025-08-22,Standard,Japan
+NF02865,2024-02-29,Premium,United States
+NF02866,2024-12-21,Mobile,United States
+NF02867,2024-08-12,Premium,India
+NF02868,2023-06-06,Premium,France
+NF02869,2025-10-04,Standard,United States
+NF02870,2023-04-02,Standard,India
+NF02871,2023-02-19,Standard,India
+NF02872,2023-05-10,Mobile,Australia
+NF02873,2024-04-26,Basic,United Kingdom
+NF02874,2024-06-20,Standard,India
+NF02875,2025-04-28,Basic,United Kingdom
+NF02876,2023-03-16,Basic,India
+NF02877,2025-12-16,Mobile,Japan
+NF02878,2024-04-01,Standard,India
+NF02879,2025-09-05,Basic,United States
+NF02880,2023-06-27,Standard,Brazil
+NF02881,2024-02-07,Mobile,India
+NF02882,2023-02-18,Mobile,Brazil
+NF02883,2024-05-18,Mobile,Brazil
+NF02884,2023-04-30,Premium,United States
+NF02885,2024-04-24,Standard,United States
+NF02886,2023-04-07,Premium,India
+NF02887,2024-05-02,Mobile,India
+NF02888,2025-09-14,Basic,United States
+NF02889,2023-01-24,Standard,United States
+NF02890,2024-12-23,Basic,India
+NF02891,2024-08-24,Basic,Brazil
+NF02892,2024-11-30,Basic,Australia
+NF02893,2023-05-23,Standard,India
+NF02894,2025-12-10,Mobile,Germany
+NF02895,2025-02-28,Premium,India
+NF02896,2024-09-04,Standard,India
+NF02897,2023-06-26,Premium,Australia
+NF02898,2025-10-19,Standard,Germany
+NF02899,2023-09-03,Mobile,United States
+NF02900,2024-12-16,Premium,United Kingdom
+NF02901,2023-07-26,Standard,Brazil
+NF02902,2024-05-05,Premium,United Kingdom
+NF02903,2023-01-28,Standard,Mexico
+NF02904,2025-02-05,Mobile,India
+NF02905,2025-07-04,Premium,Germany
+NF02906,2024-04-18,Mobile,United States
+NF02907,2025-06-14,Mobile,United States
+NF02908,2023-07-30,Basic,Australia
+NF02909,2023-02-23,Basic,Mexico
+NF02910,2023-03-02,Standard,India
+NF02911,2023-02-08,Standard,India
+NF02912,2025-10-09,Premium,Brazil
+NF02913,2024-08-20,Premium,India
+NF02914,2024-02-07,Standard,United States
+NF02915,2023-09-28,Premium,India
+NF02916,2025-07-07,Premium,India
+NF02917,2024-05-15,Standard,India
+NF02918,2024-04-20,Basic,India
+NF02919,2023-10-22,Mobile,India
+NF02920,2023-03-15,Mobile,India
+NF02921,2024-09-28,Standard,Canada
+NF02922,2024-09-01,Premium,United States
+NF02923,2025-06-16,Standard,India
+NF02924,2023-04-07,Standard,Japan
+NF02925,2025-08-21,Premium,Mexico
+NF02926,2025-03-06,Standard,Japan
+NF02927,2025-03-06,Standard,India
+NF02928,2024-03-05,Premium,India
+NF02929,2024-05-26,Standard,Canada
+NF02930,2025-05-26,Premium,Germany
+NF02931,2024-02-14,Premium,Canada
+NF02932,2023-04-24,Basic,United States
+NF02933,2023-12-31,Premium,France
+NF02934,2023-01-29,Standard,Germany
+NF02935,2023-06-27,Mobile,Australia
+NF02936,2023-05-15,Standard,United States
+NF02937,2025-04-12,Basic,India
+NF02938,2025-10-29,Standard,Australia
+NF02939,2024-01-17,Standard,India
+NF02940,2023-10-28,Standard,India
+NF02941,2025-05-01,Basic,India
+NF02942,2024-10-07,Basic,India
+NF02943,2024-01-30,Standard,Japan
+NF02944,2024-03-03,Standard,Brazil
+NF02945,2025-11-26,Mobile,India
+NF02946,2023-08-25,Basic,India
+NF02947,2024-06-27,Standard,United States
+NF02948,2023-06-24,Premium,India
+NF02949,2024-12-22,Standard,India
+NF02950,2024-10-12,Standard,India
+NF02951,2023-09-17,Standard,India
+NF02952,2024-05-23,Basic,India
+NF02953,2023-04-05,Basic,Japan
+NF02954,2025-11-17,Basic,India
+NF02955,2025-07-12,Standard,India
+NF02956,2025-06-28,Standard,United Kingdom
+NF02957,2023-12-16,Standard,United Kingdom
+NF02958,2025-06-17,Standard,United States
+NF02959,2023-10-31,Basic,United States
+NF02960,2023-03-14,Mobile,India
+NF02961,2023-07-03,Premium,India
+NF02962,2024-05-09,Premium,Canada
+NF02963,2024-07-21,Basic,Germany
+NF02964,2023-01-04,Basic,India
+NF02965,2025-09-26,Standard,Mexico
+NF02966,2025-07-19,Mobile,Mexico
+NF02967,2024-03-28,Basic,India
+NF02968,2023-10-08,Premium,United States
+NF02969,2024-11-01,Basic,Mexico
+NF02970,2024-04-14,Standard,United States
+NF02971,2024-12-02,Basic,Brazil
+NF02972,2023-09-16,Premium,India
+NF02973,2023-10-19,Premium,India
+NF02974,2023-04-07,Standard,Germany
+NF02975,2024-10-31,Premium,United States
+NF02976,2025-11-16,Premium,United States
+NF02977,2025-09-11,Standard,India
+NF02978,2024-09-12,Standard,India
+NF02979,2023-05-29,Premium,Australia
+NF02980,2024-05-18,Standard,United States
+NF02981,2024-04-19,Standard,India
+NF02982,2025-04-30,Standard,France
+NF02983,2023-11-01,Standard,India
+NF02984,2024-06-20,Standard,Germany
+NF02985,2024-06-26,Basic,United States
+NF02986,2025-07-17,Standard,France
+NF02987,2025-11-03,Basic,Brazil
+NF02988,2025-06-07,Mobile,India
+NF02989,2023-12-03,Standard,Mexico
+NF02990,2023-01-26,Standard,India
+NF02991,2024-10-29,Premium,India
+NF02992,2024-06-20,Standard,India
+NF02993,2025-10-22,Basic,United States
+NF02994,2023-02-09,Standard,Australia
+NF02995,2024-11-29,Basic,United States
+NF02996,2024-02-29,Basic,United States
+NF02997,2024-07-18,Standard,India
+NF02998,2024-02-10,Premium,France
+NF02999,2023-03-27,Standard,United States
+NF03000,2025-05-25,Mobile,India
